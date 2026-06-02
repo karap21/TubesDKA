@@ -1,119 +1,119 @@
 Waktu,ID_Armada,Tipe,Aksi,Lokasi,Muatan_kg,Jarak_Tempuh,Total_Jarak_Sementara,Pesan_Log
-06:00,Gerobak_1,Gerobak,Ambil Sampah,RU_3,1,40,40,Sisa kapasitas bak: 14kg
-06:15,Gerobak_2,Gerobak,Ambil Sampah,RU_56,2,12,12,Sisa kapasitas bak: 13kg
-06:15,Gerobak_3,Gerobak,Ambil Sampah,RU_11,1,29,29,Sisa kapasitas bak: 14kg
-06:15,Gerobak_4,Gerobak,Ambil Sampah,RU_8,1,23,23,Sisa kapasitas bak: 14kg
-06:55,Gerobak_2,Gerobak,Ambil Sampah,RU_55,2,2,14,Sisa kapasitas bak: 11kg
-07:05,Gerobak_2,Gerobak,Ambil Sampah,RU_52,1,6,20,Sisa kapasitas bak: 10kg
-07:25,Gerobak_2,Gerobak,Ambil Sampah,RU_51,1,2,22,Sisa kapasitas bak: 9kg
-07:26,Gerobak_4,Gerobak,Ambil Sampah,RU_7,2,2,25,Sisa kapasitas bak: 12kg
-07:33,Gerobak_2,Gerobak,Ambil Sampah,RU_53,5,4,26,Sisa kapasitas bak: 4kg
-07:36,Gerobak_4,Gerobak,Ambil Sampah,RU_6,1,2,27,Sisa kapasitas bak: 11kg
-07:44,Gerobak_3,Gerobak,Ambil Sampah,RU_10,5,2,31,Sisa kapasitas bak: 9kg
-07:44,Gerobak_4,Gerobak,Ambil Sampah,RU_5,1,2,29,Sisa kapasitas bak: 10kg
-07:52,Gerobak_4,Gerobak,Ambil Sampah,RU_4,7,2,31,Sisa kapasitas bak: 3kg
-07:55,Gerobak_2,Gerobak,Ambil Sampah,RU_56,3,6,32,Sisa kapasitas bak: 1kg
-08:00,Gerobak_3,Gerobak,Ambil Sampah,RU_42,1,6,37,Sisa kapasitas bak: 8kg
-08:00,Truk_1,Truk,Ambil Sampah,RU_47,1,10,10,Sisa kapasitas bak: 199kg
-08:02,Gerobak_1,Gerobak,Ambil Sampah,RU_1,2,4,44,Sisa kapasitas bak: 12kg
-08:08,Truk_1,Truk,Ambil Sampah,RU_45,1,4,14,Sisa kapasitas bak: 198kg
-08:12,Gerobak_4,Gerobak,Ambil Sampah,RU_21,1,2,33,Sisa kapasitas bak: 2kg
-08:13,Truk_1,Truk,Ambil Sampah,RU_44,1,2,16,Sisa kapasitas bak: 197kg
-08:18,Gerobak_1,Gerobak,Ambil Sampah,RU_23,3,13,57,Sisa kapasitas bak: 9kg
-08:18,Truk_1,Truk,Ambil Sampah,RU_49,2,10,26,Sisa kapasitas bak: 195kg
-08:19,Gerobak_2,Gerobak,Ambil Sampah,RU_54,1,4,36,Sisa kapasitas bak: 0kg
-08:20,Gerobak_3,Gerobak,Ambil Sampah,RU_42,1,0,37,Sisa kapasitas bak: 7kg
-08:20,Gerobak_4,Gerobak,Ambil Sampah,RU_26,2,11,44,Sisa kapasitas bak: 0kg
-08:22,Gerobak_3,Gerobak,Ambil Sampah,RG_14,4,6,43,Sisa kapasitas bak: 3kg
-08:26,Truk_1,Truk,Ambil Sampah,RU_59,1,20,46,Sisa kapasitas bak: 194kg
-08:33,Gerobak_2,Gerobak,Buang ke TPS,TPS_1,15,8,44,Bongkar muatan di TPS_1
-08:40,Truk_1,Truk,Ambil Sampah,RU_37,1,12,58,Sisa kapasitas bak: 193kg
-08:48,Gerobak_3,Gerobak,Ambil Sampah,RG_21,3,1,44,Sisa kapasitas bak: 0kg
-08:51,Truk_1,Truk,Ambil Sampah,RU_36,4,2,60,Sisa kapasitas bak: 189kg
-08:56,Truk_1,Truk,Ambil Sampah,RU_35,1,2,62,Sisa kapasitas bak: 188kg
-08:57,Gerobak_3,Gerobak,Buang ke TPS,TPS_1,15,16,60,Bongkar muatan di TPS_1
-08:57,Gerobak_4,Gerobak,Buang ke TPS,TPS_3,15,3,47,Bongkar muatan di TPS_3
-09:00,Gerobak_5,Gerobak,Ambil Sampah,RU_58,1,6,6,Sisa kapasitas bak: 14kg
-09:00,Gerobak_6,Gerobak,Ambil Sampah,RG_40,2,6,6,Sisa kapasitas bak: 13kg
-09:00,Gerobak_7,Gerobak,Ambil Sampah,RU_27,3,5,5,Sisa kapasitas bak: 12kg
-09:01,Truk_1,Truk,Ambil Sampah,RU_34,1,2,64,Sisa kapasitas bak: 187kg
-09:03,Gerobak_1,Gerobak,Ambil Sampah,RU_24,2,2,59,Sisa kapasitas bak: 7kg
-09:06,Truk_1,Truk,Ambil Sampah,RU_33,2,2,66,Sisa kapasitas bak: 185kg
-09:11,Truk_1,Truk,Ambil Sampah,RU_32,1,2,68,Sisa kapasitas bak: 184kg
-09:13,Gerobak_1,Gerobak,Ambil Sampah,RU_22,2,5,64,Sisa kapasitas bak: 5kg
-09:16,Truk_1,Truk,Ambil Sampah,RU_31,5,2,70,Sisa kapasitas bak: 179kg
-09:20,Gerobak_5,Gerobak,Ambil Sampah,RG_38,1,6,12,Sisa kapasitas bak: 13kg
-09:21,Gerobak_7,Gerobak,Ambil Sampah,RU_29,2,4,9,Sisa kapasitas bak: 10kg
-09:21,Truk_1,Truk,Ambil Sampah,RU_38,4,14,84,Sisa kapasitas bak: 175kg
-09:22,Gerobak_6,Gerobak,Ambil Sampah,RG_37,2,3,9,Sisa kapasitas bak: 11kg
-09:27,Gerobak_2,Gerobak,Ambil Sampah,RU_51,1,2,46,Sisa kapasitas bak: 14kg
-09:32,Gerobak_1,Gerobak,Ambil Sampah,RU_2,1,8,72,Sisa kapasitas bak: 4kg
-09:32,Truk_1,Truk,Ambil Sampah,RU_39,1,2,86,Sisa kapasitas bak: 174kg
-09:35,Gerobak_2,Gerobak,Ambil Sampah,RG_20,2,7,53,Sisa kapasitas bak: 12kg
-09:35,Gerobak_6,Gerobak,Ambil Sampah,RG_36,4,1,10,Sisa kapasitas bak: 7kg
-09:36,Gerobak_4,Gerobak,Ambil Sampah,RU_7,1,21,68,Sisa kapasitas bak: 14kg
-09:37,Gerobak_7,Gerobak,Ambil Sampah,RG_27,1,18,27,Sisa kapasitas bak: 9kg
-09:37,Truk_1,Truk,Ambil Sampah,RU_13,1,5,91,Sisa kapasitas bak: 173kg
-09:40,Gerobak_5,Gerobak,Ambil Sampah,RG_35,1,3,15,Sisa kapasitas bak: 12kg
-09:42,Truk_1,Truk,Ambil Sampah,RU_12,2,2,93,Sisa kapasitas bak: 171kg
-09:46,Gerobak_6,Gerobak,Ambil Sampah,RG_28,5,3,13,Sisa kapasitas bak: 2kg
-09:47,Truk_1,Truk,Ambil Sampah,RU_41,2,4,97,Sisa kapasitas bak: 169kg
-09:51,Gerobak_5,Gerobak,Ambil Sampah,RG_35,5,0,15,Sisa kapasitas bak: 7kg
-09:52,Truk_1,Truk,Ambil Sampah,RU_44,1,6,103,Sisa kapasitas bak: 168kg
-09:58,Gerobak_1,Gerobak,Ambil Sampah,RG_1,4,13,85,Sisa kapasitas bak: 0kg
-10:00,Gerobak_2,Gerobak,Ambil Sampah,RU_48,2,1,54,Sisa kapasitas bak: 10kg
-10:00,Truk_1,Truk,Ambil Sampah,RU_45,2,2,105,Sisa kapasitas bak: 166kg
-10:00,Truk_2,Truk,Ambil Sampah,RU_15,1,25,25,Sisa kapasitas bak: 199kg
-10:01,Gerobak_5,Gerobak,Ambil Sampah,RG_29,1,3,18,Sisa kapasitas bak: 6kg
-10:05,Gerobak_6,Gerobak,Ambil Sampah,RG_30,2,2,15,Sisa kapasitas bak: 0kg
-10:05,Truk_1,Truk,Ambil Sampah,RU_46,1,2,107,Sisa kapasitas bak: 165kg
-10:07,Gerobak_2,Gerobak,Ambil Sampah,RG_19,5,2,56,Sisa kapasitas bak: 5kg
-10:10,Truk_1,Truk,Ambil Sampah,RU_16,2,22,129,Sisa kapasitas bak: 163kg
-10:12,Gerobak_5,Gerobak,Ambil Sampah,RG_30,1,1,19,Sisa kapasitas bak: 5kg
-10:15,Gerobak_3,Gerobak,Ambil Sampah,RG_18,3,11,71,Sisa kapasitas bak: 12kg
-10:15,Gerobak_6,Gerobak,Buang ke TPS,TPS_1,15,15,30,Bongkar muatan di TPS_1
-10:17,Gerobak_5,Gerobak,Ambil Sampah,RG_32,1,2,21,Sisa kapasitas bak: 4kg
-10:17,Truk_2,Truk,Ambil Sampah,RU_17,3,4,29,Sisa kapasitas bak: 196kg
-10:22,Truk_2,Truk,Ambil Sampah,RU_18,2,2,31,Sisa kapasitas bak: 194kg
-10:23,Gerobak_2,Gerobak,Ambil Sampah,RG_17,1,2,58,Sisa kapasitas bak: 4kg
-10:25,Gerobak_5,Gerobak,Ambil Sampah,RG_33,2,1,22,Sisa kapasitas bak: 2kg
-10:27,Truk_1,Truk,Ambil Sampah,RU_19,1,6,135,Sisa kapasitas bak: 162kg
-10:27,Truk_2,Truk,Ambil Sampah,RU_20,3,4,35,Sisa kapasitas bak: 191kg
-10:31,Gerobak_2,Gerobak,Ambil Sampah,RG_16,4,1,59,Sisa kapasitas bak: 0kg
-10:32,Gerobak_5,Gerobak,Ambil Sampah,RG_15,1,22,44,Sisa kapasitas bak: 1kg
-10:33,Gerobak_7,Gerobak,Ambil Sampah,RG_1,2,22,49,Sisa kapasitas bak: 7kg
-10:41,Gerobak_4,Gerobak,Ambil Sampah,RG_2,2,4,72,Sisa kapasitas bak: 12kg
-10:42,Gerobak_2,Gerobak,Buang ke TPS,TPS_1,15,13,72,Bongkar muatan di TPS_1
-10:47,Truk_2,Truk,Ambil Sampah,RU_43,2,24,59,Sisa kapasitas bak: 189kg
-10:54,Gerobak_3,Gerobak,Ambil Sampah,RG_21,3,5,76,Sisa kapasitas bak: 9kg
-10:57,Gerobak_4,Gerobak,Ambil Sampah,RG_3,1,1,73,Sisa kapasitas bak: 11kg
-11:15,Truk_3,Truk,Ambil Sampah,RU_14,1,32,32,Sisa kapasitas bak: 199kg
-11:30,Gerobak_6,Gerobak,Ambil Sampah,RG_22,2,17,47,Sisa kapasitas bak: 13kg
-11:40,Gerobak_5,Gerobak,Ambil Sampah,RG_11,1,4,48,Sisa kapasitas bak: 0kg
-11:43,Gerobak_7,Gerobak,Ambil Sampah,RG_4,5,3,52,Sisa kapasitas bak: 2kg
-11:49,Truk_2,Truk,Ambil Sampah,RU_33,4,27,86,Sisa kapasitas bak: 185kg
-11:54,Gerobak_5,Gerobak,Buang ke TPS,TPS_1,15,18,66,Bongkar muatan di TPS_1
-12:02,Gerobak_7,Gerobak,Ambil Sampah,RG_5,2,1,53,Sisa kapasitas bak: 0kg
-12:09,Gerobak_7,Gerobak,Buang ke TPS,TPS_3,15,28,81,Bongkar muatan di TPS_3
-12:25,Gerobak_6,Gerobak,Ambil Sampah,RG_23,1,1,48,Sisa kapasitas bak: 12kg
-12:30,Gerobak_6,Gerobak,Ambil Sampah,RG_25,4,2,50,Sisa kapasitas bak: 8kg
-12:38,Truk_3,Truk,Ambil Sampah,RU_25,1,31,63,Sisa kapasitas bak: 198kg
-12:44,Gerobak_6,Gerobak,Ambil Sampah,RG_11,1,8,58,Sisa kapasitas bak: 7kg
-13:05,Truk_1,Truk,Buang ke TPS,TPS_2,38,33,168,Bongkar muatan di TPS_2
-13:10,Gerobak_6,Gerobak,Ambil Sampah,RG_17,1,6,64,Sisa kapasitas bak: 6kg
-13:16,Truk_3,Truk,Ambil Sampah,RU_9,1,21,84,Sisa kapasitas bak: 197kg
-13:18,Gerobak_5,Gerobak,Ambil Sampah,RG_34,2,18,84,Sisa kapasitas bak: 13kg
-13:24,Truk_2,Truk,Ambil Sampah,RU_40,1,14,100,Sisa kapasitas bak: 184kg
-13:30,Gerobak_6,Gerobak,Ambil Sampah,RG_3,2,22,86,Sisa kapasitas bak: 4kg
-13:48,Truk_3,Truk,Ambil Sampah,RU_9,1,0,84,Sisa kapasitas bak: 196kg
-14:16,Gerobak_5,Gerobak,Buang ke TPS,TPS_2,2,12,96,Bongkar muatan di TPS_2
-14:35,Truk_2,Truk,Ambil Sampah,RU_32,1,16,116,Sisa kapasitas bak: 183kg
-14:35,Truk_3,Truk,Ambil Sampah,RU_52,1,28,112,Sisa kapasitas bak: 195kg
-15:04,Truk_2,Truk,Buang ke TPS,TPS_3,17,15,131,Bongkar muatan di TPS_3
-15:10,Truk_3,Truk,Ambil Sampah,RU_13,2,25,137,Sisa kapasitas bak: 193kg
-15:27,Truk_3,Truk,Ambil Sampah,RU_21,1,20,157,Sisa kapasitas bak: 192kg
-15:32,Truk_2,Truk,Ambil Sampah,RU_30,2,11,142,Sisa kapasitas bak: 198kg
-15:41,Truk_3,Truk,Ambil Sampah,RU_39,1,25,182,Sisa kapasitas bak: 191kg
-15:43,Truk_2,Truk,Buang ke TPS,TPS_3,2,11,153,Bongkar muatan di TPS_3
-15:58,Truk_3,Truk,Ambil Sampah,RU_57,1,18,200,Sisa kapasitas bak: 190kg
-16:12,Truk_3,Truk,Buang ke TPS,TPS_2,10,8,208,Bongkar muatan di TPS_2
+06:15,Gerobak_1,Gerobak,Ambil Sampah,RU_55,3,10,10,Sisa kapasitas bak: 12kg
+06:15,Gerobak_2,Gerobak,Ambil Sampah,RG_29,1,16,16,Sisa kapasitas bak: 14kg
+06:15,Gerobak_3,Gerobak,Ambil Sampah,RG_38,1,8,8,Sisa kapasitas bak: 14kg
+06:15,Gerobak_4,Gerobak,Ambil Sampah,RU_8,2,23,23,Sisa kapasitas bak: 13kg
+06:41,Gerobak_3,Gerobak,Ambil Sampah,RG_30,2,7,15,Sisa kapasitas bak: 12kg
+06:51,Gerobak_1,Gerobak,Ambil Sampah,RU_52,1,6,16,Sisa kapasitas bak: 11kg
+07:05,Gerobak_2,Gerobak,Ambil Sampah,RG_28,1,1,17,Sisa kapasitas bak: 13kg
+07:06,Gerobak_3,Gerobak,Ambil Sampah,RG_36,1,5,20,Sisa kapasitas bak: 11kg
+07:10,Gerobak_2,Gerobak,Ambil Sampah,RU_36,1,5,22,Sisa kapasitas bak: 12kg
+07:11,Gerobak_1,Gerobak,Ambil Sampah,RU_50,4,4,20,Sisa kapasitas bak: 7kg
+07:23,Gerobak_3,Gerobak,Ambil Sampah,RG_35,2,1,21,Sisa kapasitas bak: 9kg
+07:27,Gerobak_2,Gerobak,Ambil Sampah,RU_36,1,0,22,Sisa kapasitas bak: 11kg
+07:28,Gerobak_4,Gerobak,Ambil Sampah,RG_1,2,1,24,Sisa kapasitas bak: 11kg
+07:29,Gerobak_2,Gerobak,Ambil Sampah,RU_35,3,2,24,Sisa kapasitas bak: 8kg
+07:30,Gerobak_3,Gerobak,Ambil Sampah,RG_34,1,1,22,Sisa kapasitas bak: 8kg
+07:31,Gerobak_1,Gerobak,Ambil Sampah,RU_49,3,2,22,Sisa kapasitas bak: 4kg
+07:35,Gerobak_3,Gerobak,Ambil Sampah,RG_29,2,2,24,Sisa kapasitas bak: 6kg
+07:35,Gerobak_4,Gerobak,Ambil Sampah,RU_9,2,3,27,Sisa kapasitas bak: 9kg
+07:41,Gerobak_2,Gerobak,Ambil Sampah,RU_34,1,2,26,Sisa kapasitas bak: 7kg
+07:43,Gerobak_1,Gerobak,Ambil Sampah,RG_20,1,3,25,Sisa kapasitas bak: 3kg
+07:45,Gerobak_3,Gerobak,Ambil Sampah,RG_31,4,2,26,Sisa kapasitas bak: 2kg
+07:48,Gerobak_4,Gerobak,Ambil Sampah,RU_10,2,2,29,Sisa kapasitas bak: 7kg
+07:49,Gerobak_2,Gerobak,Ambil Sampah,RU_31,5,6,32,Sisa kapasitas bak: 2kg
+07:54,Gerobak_1,Gerobak,Ambil Sampah,RG_19,2,1,26,Sisa kapasitas bak: 1kg
+07:58,Gerobak_4,Gerobak,Ambil Sampah,RU_12,2,4,33,Sisa kapasitas bak: 5kg
+07:59,Gerobak_3,Gerobak,Ambil Sampah,RG_26,2,5,31,Sisa kapasitas bak: 0kg
+08:00,Truk_1,Truk,Ambil Sampah,RU_45,6,14,14,Sisa kapasitas bak: 194kg
+08:01,Gerobak_1,Gerobak,Ambil Sampah,RG_17,1,2,28,Sisa kapasitas bak: 0kg
+08:09,Gerobak_1,Gerobak,Buang ke TPS,TPS_1,15,12,40,Bongkar muatan di TPS_1
+08:11,Truk_1,Truk,Ambil Sampah,RU_44,1,2,16,Sisa kapasitas bak: 193kg
+08:14,Gerobak_4,Gerobak,Ambil Sampah,RU_14,1,4,37,Sisa kapasitas bak: 4kg
+08:16,Truk_1,Truk,Ambil Sampah,RU_43,3,2,18,Sisa kapasitas bak: 190kg
+08:17,Gerobak_2,Gerobak,Ambil Sampah,RU_30,1,2,34,Sisa kapasitas bak: 1kg
+08:18,Gerobak_3,Gerobak,Buang ke TPS,TPS_2,15,15,46,Bongkar muatan di TPS_2
+08:21,Truk_1,Truk,Ambil Sampah,RU_42,1,2,20,Sisa kapasitas bak: 189kg
+08:25,Gerobak_2,Gerobak,Ambil Sampah,RU_30,1,0,34,Sisa kapasitas bak: 0kg
+08:26,Truk_1,Truk,Ambil Sampah,RU_41,3,2,22,Sisa kapasitas bak: 186kg
+08:27,Gerobak_2,Gerobak,Buang ke TPS,TPS_3,15,11,45,Bongkar muatan di TPS_3
+08:28,Gerobak_4,Gerobak,Ambil Sampah,RU_13,2,2,39,Sisa kapasitas bak: 2kg
+08:31,Truk_1,Truk,Ambil Sampah,RU_15,1,10,32,Sisa kapasitas bak: 185kg
+08:38,Gerobak_4,Gerobak,Ambil Sampah,RU_39,2,5,44,Sisa kapasitas bak: 0kg
+08:39,Truk_1,Truk,Ambil Sampah,RU_16,3,2,34,Sisa kapasitas bak: 182kg
+08:44,Truk_1,Truk,Ambil Sampah,RU_17,2,2,36,Sisa kapasitas bak: 180kg
+08:49,Truk_1,Truk,Ambil Sampah,RU_18,2,2,38,Sisa kapasitas bak: 178kg
+08:54,Truk_1,Truk,Ambil Sampah,RU_19,2,2,40,Sisa kapasitas bak: 176kg
+08:57,Gerobak_4,Gerobak,Buang ke TPS,TPS_2,15,20,64,Bongkar muatan di TPS_2
+08:59,Truk_1,Truk,Ambil Sampah,RU_20,1,2,42,Sisa kapasitas bak: 175kg
+09:00,Gerobak_5,Gerobak,Ambil Sampah,RU_60,1,2,2,Sisa kapasitas bak: 14kg
+09:00,Gerobak_6,Gerobak,Ambil Sampah,RU_59,1,4,4,Sisa kapasitas bak: 14kg
+09:00,Gerobak_7,Gerobak,Ambil Sampah,RU_26,4,3,3,Sisa kapasitas bak: 11kg
+09:04,Truk_1,Truk,Ambil Sampah,RU_14,1,12,54,Sisa kapasitas bak: 174kg
+09:08,Gerobak_5,Gerobak,Ambil Sampah,RG_40,5,4,6,Sisa kapasitas bak: 9kg
+09:14,Gerobak_6,Gerobak,Ambil Sampah,RG_39,1,3,7,Sisa kapasitas bak: 13kg
+09:15,Gerobak_1,Gerobak,Ambil Sampah,RU_53,1,6,46,Sisa kapasitas bak: 14kg
+09:15,Truk_1,Truk,Ambil Sampah,RU_39,1,3,57,Sisa kapasitas bak: 173kg
+09:17,Gerobak_7,Gerobak,Ambil Sampah,RU_25,1,2,5,Sisa kapasitas bak: 10kg
+09:20,Truk_1,Truk,Ambil Sampah,RU_38,2,2,59,Sisa kapasitas bak: 171kg
+09:25,Gerobak_6,Gerobak,Ambil Sampah,RG_38,1,1,8,Sisa kapasitas bak: 12kg
+09:25,Gerobak_7,Gerobak,Ambil Sampah,RU_24,2,2,7,Sisa kapasitas bak: 8kg
+09:25,Truk_1,Truk,Ambil Sampah,RU_37,1,2,61,Sisa kapasitas bak: 170kg
+09:30,Gerobak_2,Gerobak,Ambil Sampah,RU_27,4,5,50,Sisa kapasitas bak: 11kg
+09:30,Gerobak_5,Gerobak,Ambil Sampah,RG_37,2,3,9,Sisa kapasitas bak: 7kg
+09:30,Gerobak_6,Gerobak,Ambil Sampah,RG_26,1,7,15,Sisa kapasitas bak: 11kg
+09:30,Truk_1,Truk,Ambil Sampah,RU_35,2,4,65,Sisa kapasitas bak: 168kg
+09:33,Gerobak_3,Gerobak,Ambil Sampah,RU_54,4,14,60,Sisa kapasitas bak: 11kg
+09:35,Gerobak_1,Gerobak,Ambil Sampah,RG_33,2,6,52,Sisa kapasitas bak: 12kg
+09:35,Gerobak_7,Gerobak,Ambil Sampah,RU_23,4,2,9,Sisa kapasitas bak: 4kg
+09:35,Truk_1,Truk,Ambil Sampah,RU_33,2,4,69,Sisa kapasitas bak: 166kg
+09:40,Truk_1,Truk,Ambil Sampah,RU_28,1,10,79,Sisa kapasitas bak: 165kg
+09:43,Gerobak_5,Gerobak,Ambil Sampah,RG_32,3,8,17,Sisa kapasitas bak: 4kg
+09:48,Truk_1,Truk,Ambil Sampah,RU_22,2,13,92,Sisa kapasitas bak: 163kg
+09:49,Gerobak_7,Gerobak,Ambil Sampah,RU_21,3,5,14,Sisa kapasitas bak: 1kg
+09:53,Gerobak_2,Gerobak,Ambil Sampah,RU_4,1,15,65,Sisa kapasitas bak: 10kg
+09:53,Gerobak_6,Gerobak,Ambil Sampah,RG_2,2,22,37,Sisa kapasitas bak: 9kg
+09:57,Gerobak_1,Gerobak,Ambil Sampah,RU_48,1,16,68,Sisa kapasitas bak: 11kg
+09:59,Truk_1,Truk,Ambil Sampah,RU_3,5,6,98,Sisa kapasitas bak: 158kg
+10:00,Truk_2,Truk,Ambil Sampah,RU_47,2,28,28,Sisa kapasitas bak: 198kg
+10:07,Truk_1,Truk,Ambil Sampah,RU_1,5,4,102,Sisa kapasitas bak: 153kg
+10:10,Gerobak_7,Gerobak,Ambil Sampah,RG_3,1,13,27,Sisa kapasitas bak: 0kg
+10:13,Gerobak_5,Gerobak,Ambil Sampah,RG_18,1,20,37,Sisa kapasitas bak: 3kg
+10:23,Gerobak_3,Gerobak,Ambil Sampah,RG_17,1,16,76,Sisa kapasitas bak: 10kg
+10:40,Gerobak_2,Gerobak,Ambil Sampah,RG_5,1,13,78,Sisa kapasitas bak: 9kg
+10:42,Gerobak_4,Gerobak,Ambil Sampah,RU_57,1,8,72,Sisa kapasitas bak: 14kg
+10:42,Truk_1,Truk,Ambil Sampah,RU_29,1,25,127,Sisa kapasitas bak: 152kg
+10:47,Gerobak_1,Gerobak,Ambil Sampah,RG_16,1,5,73,Sisa kapasitas bak: 10kg
+10:51,Gerobak_7,Gerobak,Buang ke TPS,TPS_3,15,26,53,Bongkar muatan di TPS_3
+11:03,Gerobak_6,Gerobak,Ambil Sampah,RG_6,1,4,41,Sisa kapasitas bak: 8kg
+11:04,Gerobak_1,Gerobak,Buang ke TPS,TPS_1,5,13,86,Bongkar muatan di TPS_1
+11:08,Gerobak_4,Gerobak,Buang ke TPS,TPS_2,1,8,80,Bongkar muatan di TPS_2
+11:13,Gerobak_3,Gerobak,Buang ke TPS,TPS_1,5,12,88,Bongkar muatan di TPS_1
+11:14,Truk_1,Truk,Ambil Sampah,RU_56,1,28,155,Sisa kapasitas bak: 151kg
+11:15,Gerobak_5,Gerobak,Ambil Sampah,RG_15,1,3,40,Sisa kapasitas bak: 2kg
+11:17,Gerobak_6,Gerobak,Ambil Sampah,RG_9,1,3,44,Sisa kapasitas bak: 7kg
+11:26,Gerobak_5,Gerobak,Ambil Sampah,RG_13,1,2,42,Sisa kapasitas bak: 1kg
+11:28,Gerobak_6,Gerobak,Ambil Sampah,RG_10,1,1,45,Sisa kapasitas bak: 6kg
+11:33,Gerobak_6,Gerobak,Ambil Sampah,RG_12,6,24,69,Sisa kapasitas bak: 0kg
+11:34,Gerobak_5,Gerobak,Ambil Sampah,RG_12,1,1,43,Sisa kapasitas bak: 0kg
+11:39,Gerobak_5,Gerobak,Buang ke TPS,TPS_1,15,17,60,Bongkar muatan di TPS_1
+12:00,Truk_3,Truk,Ambil Sampah,RU_46,1,41,41,Sisa kapasitas bak: 199kg
+12:19,Truk_1,Truk,Ambil Sampah,RU_5,5,37,192,Sisa kapasitas bak: 146kg
+12:39,Gerobak_7,Gerobak,Ambil Sampah,RG_9,1,32,85,Sisa kapasitas bak: 14kg
+12:57,Gerobak_6,Gerobak,Buang ke TPS,TPS_1,15,17,86,Bongkar muatan di TPS_1
+13:00,Gerobak_5,Gerobak,Ambil Sampah,RG_14,1,15,75,Sisa kapasitas bak: 14kg
+13:15,Truk_1,Truk,Buang ke TPS,TPS_3,54,17,209,Bongkar muatan di TPS_3
+13:35,Truk_2,Truk,Ambil Sampah,RU_42,1,10,38,Sisa kapasitas bak: 197kg
+13:47,Gerobak_5,Gerobak,Ambil Sampah,RG_15,1,1,76,Sisa kapasitas bak: 13kg
+13:52,Gerobak_5,Gerobak,Ambil Sampah,RG_21,1,2,78,Sisa kapasitas bak: 12kg
+14:00,Gerobak_5,Gerobak,Ambil Sampah,RG_23,4,2,80,Sisa kapasitas bak: 8kg
+14:29,Truk_3,Truk,Ambil Sampah,RU_41,1,10,51,Sisa kapasitas bak: 198kg
+14:52,Truk_3,Truk,Ambil Sampah,RU_51,5,20,71,Sisa kapasitas bak: 193kg
+15:13,Truk_2,Truk,Buang ke TPS,TPS_1,3,20,58,Bongkar muatan di TPS_1
+15:21,Truk_3,Truk,Ambil Sampah,RU_58,3,14,85,Sisa kapasitas bak: 190kg
+15:27,Truk_2,Truk,Ambil Sampah,RU_32,1,30,88,Sisa kapasitas bak: 199kg
+15:32,Truk_3,Truk,Ambil Sampah,RU_11,1,27,112,Sisa kapasitas bak: 189kg
+15:47,Truk_2,Truk,Buang ke TPS,TPS_3,1,15,103,Bongkar muatan di TPS_3
+15:52,Truk_3,Truk,Ambil Sampah,RU_6,1,10,122,Sisa kapasitas bak: 188kg
+16:00,Truk_3,Truk,Ambil Sampah,RU_2,2,8,130,Sisa kapasitas bak: 186kg
+16:08,Truk_3,Truk,Buang ke TPS,TPS_3,14,19,149,Bongkar muatan di TPS_3
