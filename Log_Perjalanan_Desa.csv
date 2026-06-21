@@ -1,0 +1,696 @@
+Waktu,ID_Armada,Tipe,Aksi,Lokasi,Muatan_kg,Jarak_Tempuh,Total_Jarak_Sementara,Pesan_Log
+06:15,Gerobak_1,Gerobak,Patroli Lewat,RU_51,0,2,2,Melewati persimpangan
+06:15,Gerobak_2,Gerobak,Patroli Lewat,RU_51,0,2,2,Melewati persimpangan
+06:15,Gerobak_3,Gerobak,Patroli Lewat,RU_60,0,2,2,Melewati persimpangan
+06:15,Gerobak_4,Gerobak,Patroli Lewat,RU_26,0,3,3,Melewati persimpangan
+06:21,Gerobak_1,Gerobak,Patroli Lewat,RU_52,0,2,4,Melewati persimpangan
+06:21,Gerobak_2,Gerobak,Patroli Lewat,RU_52,0,2,4,Melewati persimpangan
+06:21,Gerobak_3,Gerobak,Patroli Lewat,RU_59,0,2,4,Melewati persimpangan
+06:24,Gerobak_4,Gerobak,Patroli Lewat,RU_27,0,2,5,Melewati persimpangan
+06:27,Gerobak_1,Gerobak,Patroli Lewat,RU_53,0,2,6,Melewati persimpangan
+06:27,Gerobak_2,Gerobak,Patroli Lewat,RU_53,0,2,6,Melewati persimpangan
+06:27,Gerobak_3,Gerobak,Patroli Lewat,RG_40,0,2,6,Melewati persimpangan
+06:30,Gerobak_4,Gerobak,Patroli Lewat,RU_28,0,2,7,Melewati persimpangan
+06:33,Gerobak_1,Gerobak,Ambil Sampah,RU_54,3,2,8,Intercept sampah! Sisa kapasitas: 12kg
+06:33,Gerobak_2,Gerobak,Patroli Lewat,RU_54,0,2,8,Melewati persimpangan
+06:33,Gerobak_3,Gerobak,Ambil Sampah,RG_39,1,1,7,Intercept sampah! Sisa kapasitas: 14kg
+06:36,Gerobak_4,Gerobak,Patroli Lewat,RU_29,0,2,9,Melewati persimpangan
+06:38,Gerobak_3,Gerobak,Patroli Lewat,RG_38,0,1,8,Melewati persimpangan
+06:39,Gerobak_2,Gerobak,Ambil Sampah,RU_53,2,2,10,Intercept sampah! Sisa kapasitas: 13kg
+06:41,Gerobak_3,Gerobak,Ambil Sampah,RG_37,3,1,9,Intercept sampah! Sisa kapasitas: 11kg
+06:42,Gerobak_4,Gerobak,Ambil Sampah,RU_30,5,2,11,Intercept sampah! Sisa kapasitas: 10kg
+06:45,Gerobak_1,Gerobak,Patroli Lewat,RU_55,0,2,10,Melewati persimpangan
+06:49,Gerobak_2,Gerobak,Patroli Lewat,RU_54,0,2,12,Melewati persimpangan
+06:50,Gerobak_3,Gerobak,Patroli Lewat,RG_36,0,1,10,Melewati persimpangan
+06:51,Gerobak_1,Gerobak,Ambil Sampah,RU_56,4,2,12,Intercept sampah! Sisa kapasitas: 8kg
+06:53,Gerobak_3,Gerobak,Ambil Sampah,RG_35,1,1,11,Intercept sampah! Sisa kapasitas: 10kg
+06:55,Gerobak_2,Gerobak,Patroli Lewat,RU_55,0,2,14,Melewati persimpangan
+06:58,Gerobak_3,Gerobak,Patroli Lewat,RG_34,0,1,12,Melewati persimpangan
+06:58,Gerobak_4,Gerobak,Patroli Lewat,RU_29,0,2,13,Melewati persimpangan
+07:01,Gerobak_2,Gerobak,Patroli Lewat,RG_33,0,2,16,Melewati persimpangan
+07:01,Gerobak_3,Gerobak,Patroli Lewat,RG_28,0,1,13,Melewati persimpangan
+07:04,Gerobak_3,Gerobak,Ambil Sampah,RG_29,3,1,14,Intercept sampah! Sisa kapasitas: 7kg
+07:04,Gerobak_4,Gerobak,Patroli Lewat,RU_28,0,2,15,Melewati persimpangan
+07:05,Gerobak_1,Gerobak,Ambil Sampah,RU_57,1,2,14,Intercept sampah! Sisa kapasitas: 7kg
+07:07,Gerobak_2,Gerobak,Ambil Sampah,RG_32,1,1,17,Intercept sampah! Sisa kapasitas: 12kg
+07:10,Gerobak_4,Gerobak,Patroli Lewat,RU_27,0,2,17,Melewati persimpangan
+07:12,Gerobak_2,Gerobak,Ambil Sampah,RG_31,5,1,18,Intercept sampah! Sisa kapasitas: 7kg
+07:13,Gerobak_1,Gerobak,Patroli Lewat,RU_58,0,2,16,Melewati persimpangan
+07:13,Gerobak_3,Gerobak,Patroli Lewat,RG_28,0,1,15,Melewati persimpangan
+07:16,Gerobak_3,Gerobak,Patroli Lewat,RG_34,0,1,16,Melewati persimpangan
+07:16,Gerobak_4,Gerobak,Ambil Sampah,RU_26,1,2,19,Intercept sampah! Sisa kapasitas: 9kg
+07:19,Gerobak_1,Gerobak,Ambil Sampah,RU_59,7,2,18,Intercept sampah! Sisa kapasitas: 0kg
+07:19,Gerobak_3,Gerobak,Patroli Lewat,RG_35,0,1,17,Melewati persimpangan
+07:22,Gerobak_3,Gerobak,Ambil Sampah,RG_36,1,1,18,Intercept sampah! Sisa kapasitas: 6kg
+07:24,Gerobak_4,Gerobak,Patroli Lewat,RU_25,0,2,21,Melewati persimpangan
+07:25,Gerobak_2,Gerobak,Patroli Lewat,RG_32,0,1,19,Melewati persimpangan
+07:27,Gerobak_3,Gerobak,Patroli Lewat,RG_37,0,1,19,Melewati persimpangan
+07:28,Gerobak_2,Gerobak,Patroli Lewat,RG_33,0,1,20,Melewati persimpangan
+07:30,Gerobak_3,Gerobak,Patroli Lewat,RG_38,0,1,20,Melewati persimpangan
+07:30,Gerobak_4,Gerobak,Patroli Lewat,RU_26,0,2,23,Melewati persimpangan
+07:31,Gerobak_2,Gerobak,Ambil Sampah,RG_32,1,1,21,Intercept sampah! Sisa kapasitas: 6kg
+07:33,Gerobak_3,Gerobak,Ambil Sampah,RG_39,2,1,21,Intercept sampah! Sisa kapasitas: 4kg
+07:36,Gerobak_2,Gerobak,Patroli Lewat,RG_33,0,1,22,Melewati persimpangan
+07:36,Gerobak_4,Gerobak,Patroli Lewat,RU_27,0,2,25,Melewati persimpangan
+07:39,Gerobak_1,Gerobak,Patroli Lewat,RU_60,0,2,20,Melewati persimpangan
+07:39,Gerobak_2,Gerobak,Ambil Sampah,RU_55,1,2,24,Intercept sampah! Sisa kapasitas: 5kg
+07:40,Gerobak_3,Gerobak,Patroli Lewat,RG_38,0,1,22,Melewati persimpangan
+07:42,Gerobak_4,Gerobak,Ambil Sampah,RU_28,1,2,27,Intercept sampah! Sisa kapasitas: 8kg
+07:43,Gerobak_3,Gerobak,Patroli Lewat,RG_37,0,1,23,Melewati persimpangan
+07:45,Gerobak_1,Gerobak,Buang ke TPS,TPS_2,15,2,22,Bongkar muatan di TPS_2
+07:46,Gerobak_3,Gerobak,Patroli Lewat,RG_36,0,1,24,Melewati persimpangan
+07:47,Gerobak_2,Gerobak,Patroli Lewat,RU_54,0,2,26,Melewati persimpangan
+07:49,Gerobak_3,Gerobak,Patroli Lewat,RG_35,0,1,25,Melewati persimpangan
+07:50,Gerobak_4,Gerobak,Ambil Sampah,RU_29,6,2,29,Intercept sampah! Sisa kapasitas: 2kg
+07:51,Gerobak_1,Gerobak,Patroli Lewat,RU_60,0,2,24,Melewati persimpangan
+07:52,Gerobak_3,Gerobak,Patroli Lewat,RG_34,0,1,26,Melewati persimpangan
+07:53,Gerobak_2,Gerobak,Patroli Lewat,RU_53,0,2,28,Melewati persimpangan
+07:57,Gerobak_1,Gerobak,Patroli Lewat,RU_59,0,2,26,Melewati persimpangan
+07:59,Gerobak_2,Gerobak,Ambil Sampah,RU_52,2,2,30,Intercept sampah! Sisa kapasitas: 3kg
+08:00,Truk_1,Truk,Patroli Lewat,RU_51,0,2,2,Melewati persimpangan
+08:03,Gerobak_1,Gerobak,Patroli Lewat,RG_40,0,2,28,Melewati persimpangan
+08:03,Truk_1,Truk,Patroli Lewat,RU_50,0,2,4,Melewati persimpangan
+08:06,Truk_1,Truk,Ambil Sampah,RU_49,3,2,6,Intercept sampah! Sisa kapasitas: 197kg
+08:08,Gerobak_4,Gerobak,Patroli Lewat,RU_30,0,2,31,Melewati persimpangan
+08:09,Gerobak_1,Gerobak,Patroli Lewat,RG_39,0,1,29,Melewati persimpangan
+08:09,Gerobak_2,Gerobak,Patroli Lewat,RU_51,0,2,32,Melewati persimpangan
+08:11,Truk_1,Truk,Patroli Lewat,RU_48,0,2,8,Melewati persimpangan
+08:12,Gerobak_1,Gerobak,Patroli Lewat,RG_38,0,1,30,Melewati persimpangan
+08:14,Gerobak_4,Gerobak,Patroli Lewat,RU_31,0,2,33,Melewati persimpangan
+08:14,Truk_1,Truk,Patroli Lewat,RU_47,0,2,10,Melewati persimpangan
+08:15,Gerobak_1,Gerobak,Patroli Lewat,RG_37,0,1,31,Melewati persimpangan
+08:15,Gerobak_2,Gerobak,Patroli Lewat,RU_50,0,2,34,Melewati persimpangan
+08:17,Truk_1,Truk,Ambil Sampah,RU_46,3,2,12,Intercept sampah! Sisa kapasitas: 194kg
+08:18,Gerobak_1,Gerobak,Patroli Lewat,RG_36,0,1,32,Melewati persimpangan
+08:20,Gerobak_4,Gerobak,Ambil Sampah,RU_32,1,2,35,Intercept sampah! Sisa kapasitas: 1kg
+08:21,Gerobak_1,Gerobak,Patroli Lewat,RG_35,0,1,33,Melewati persimpangan
+08:21,Gerobak_2,Gerobak,Patroli Lewat,RU_49,0,2,36,Melewati persimpangan
+08:22,Truk_1,Truk,Ambil Sampah,RU_45,3,2,14,Intercept sampah! Sisa kapasitas: 191kg
+08:24,Gerobak_1,Gerobak,Ambil Sampah,RG_34,2,1,34,Intercept sampah! Sisa kapasitas: 13kg
+08:25,Gerobak_3,Gerobak,Patroli Lewat,RG_28,0,1,27,Melewati persimpangan
+08:27,Gerobak_2,Gerobak,Ambil Sampah,RU_48,2,2,38,Intercept sampah! Sisa kapasitas: 1kg
+08:27,Truk_1,Truk,Ambil Sampah,RU_44,3,2,16,Intercept sampah! Sisa kapasitas: 188kg
+08:28,Gerobak_3,Gerobak,Patroli Lewat,RG_27,0,1,28,Melewati persimpangan
+08:28,Gerobak_4,Gerobak,Patroli Lewat,RU_33,0,2,37,Melewati persimpangan
+08:31,Gerobak_1,Gerobak,Patroli Lewat,RG_28,0,1,35,Melewati persimpangan
+08:31,Gerobak_3,Gerobak,Ambil Sampah,RG_26,3,1,29,Intercept sampah! Sisa kapasitas: 1kg
+08:32,Truk_1,Truk,Patroli Lewat,RU_43,0,2,18,Melewati persimpangan
+08:34,Gerobak_1,Gerobak,Patroli Lewat,RG_29,0,1,36,Melewati persimpangan
+08:34,Gerobak_4,Gerobak,Patroli Lewat,RU_34,0,2,39,Melewati persimpangan
+08:35,Truk_1,Truk,Ambil Sampah,RU_42,2,2,20,Intercept sampah! Sisa kapasitas: 186kg
+08:37,Gerobak_1,Gerobak,Ambil Sampah,RG_30,4,1,37,Intercept sampah! Sisa kapasitas: 9kg
+08:37,Gerobak_2,Gerobak,Ambil Sampah,RG_20,1,1,39,Intercept sampah! Sisa kapasitas: 0kg
+08:40,Gerobak_3,Gerobak,Patroli Lewat,RG_27,0,1,30,Melewati persimpangan
+08:40,Gerobak_4,Gerobak,Ambil Sampah,RU_35,1,2,41,Intercept sampah! Sisa kapasitas: 0kg
+08:40,Truk_1,Truk,Patroli Lewat,RU_41,0,2,22,Melewati persimpangan
+08:42,Gerobak_2,Gerobak,Patroli Lewat,RU_48,0,1,40,Melewati persimpangan
+08:43,Gerobak_3,Gerobak,Ambil Sampah,RG_28,1,1,31,Intercept sampah! Sisa kapasitas: 0kg
+08:43,Truk_1,Truk,Patroli Lewat,RU_11,0,2,24,Melewati persimpangan
+08:45,Gerobak_2,Gerobak,Patroli Lewat,RU_49,0,2,42,Melewati persimpangan
+08:48,Gerobak_1,Gerobak,Ambil Sampah,RG_31,1,1,38,Intercept sampah! Sisa kapasitas: 8kg
+08:48,Gerobak_3,Gerobak,Patroli Lewat,RG_34,0,1,32,Melewati persimpangan
+08:48,Gerobak_4,Gerobak,Patroli Lewat,RU_36,0,2,43,Melewati persimpangan
+08:51,Gerobak_2,Gerobak,Patroli Lewat,RU_50,0,2,44,Melewati persimpangan
+08:51,Gerobak_3,Gerobak,Patroli Lewat,RG_35,0,1,33,Melewati persimpangan
+08:53,Gerobak_1,Gerobak,Patroli Lewat,RG_32,0,1,39,Melewati persimpangan
+08:54,Gerobak_3,Gerobak,Patroli Lewat,RG_36,0,1,34,Melewati persimpangan
+08:54,Gerobak_4,Gerobak,Patroli Lewat,RU_37,0,2,45,Melewati persimpangan
+08:56,Gerobak_1,Gerobak,Ambil Sampah,RG_33,2,1,40,Intercept sampah! Sisa kapasitas: 6kg
+08:57,Gerobak_2,Gerobak,Patroli Lewat,RU_51,0,2,46,Melewati persimpangan
+08:57,Gerobak_3,Gerobak,Patroli Lewat,RG_37,0,1,35,Melewati persimpangan
+09:00,Gerobak_3,Gerobak,Patroli Lewat,RG_38,0,1,36,Melewati persimpangan
+09:00,Gerobak_4,Gerobak,Patroli Lewat,RG_26,0,1,46,Melewati persimpangan
+09:00,Gerobak_5,Gerobak,Patroli Lewat,RU_60,0,2,2,Melewati persimpangan
+09:00,Gerobak_6,Gerobak,Patroli Lewat,RU_60,0,2,2,Melewati persimpangan
+09:00,Gerobak_7,Gerobak,Patroli Lewat,RU_25,0,4,4,Melewati persimpangan
+09:03,Gerobak_1,Gerobak,Patroli Lewat,RG_32,0,1,41,Melewati persimpangan
+09:03,Gerobak_2,Gerobak,Buang ke TPS,TPS_1,15,2,48,Bongkar muatan di TPS_1
+09:03,Gerobak_3,Gerobak,Patroli Lewat,RG_39,0,1,37,Melewati persimpangan
+09:03,Gerobak_4,Gerobak,Patroli Lewat,RG_27,0,1,47,Melewati persimpangan
+09:06,Gerobak_1,Gerobak,Patroli Lewat,RG_31,0,1,42,Melewati persimpangan
+09:06,Gerobak_3,Gerobak,Patroli Lewat,RG_40,0,1,38,Melewati persimpangan
+09:06,Gerobak_4,Gerobak,Patroli Lewat,RG_28,0,1,48,Melewati persimpangan
+09:06,Gerobak_5,Gerobak,Patroli Lewat,RU_59,0,2,4,Melewati persimpangan
+09:06,Gerobak_6,Gerobak,Patroli Lewat,RU_59,0,2,4,Melewati persimpangan
+09:09,Gerobak_1,Gerobak,Patroli Lewat,RG_30,0,1,43,Melewati persimpangan
+09:09,Gerobak_2,Gerobak,Ambil Sampah,RU_51,1,2,50,Intercept sampah! Sisa kapasitas: 14kg
+09:09,Gerobak_3,Gerobak,Patroli Lewat,RU_59,0,2,40,Melewati persimpangan
+09:09,Gerobak_4,Gerobak,Patroli Lewat,RG_34,0,1,49,Melewati persimpangan
+09:12,Gerobak_1,Gerobak,Patroli Lewat,RG_29,0,1,44,Melewati persimpangan
+09:12,Gerobak_4,Gerobak,Patroli Lewat,RG_35,0,1,50,Melewati persimpangan
+09:12,Gerobak_5,Gerobak,Patroli Lewat,RG_40,0,2,6,Melewati persimpangan
+09:12,Gerobak_6,Gerobak,Patroli Lewat,RG_40,0,2,6,Melewati persimpangan
+09:12,Gerobak_7,Gerobak,Patroli Lewat,RU_24,0,2,6,Melewati persimpangan
+09:15,Gerobak_1,Gerobak,Ambil Sampah,RG_28,4,1,45,Intercept sampah! Sisa kapasitas: 2kg
+09:15,Gerobak_3,Gerobak,Patroli Lewat,RU_60,0,2,42,Melewati persimpangan
+09:15,Gerobak_4,Gerobak,Patroli Lewat,RG_36,0,1,51,Melewati persimpangan
+09:17,Gerobak_2,Gerobak,Patroli Lewat,RU_50,0,2,52,Melewati persimpangan
+09:18,Gerobak_4,Gerobak,Patroli Lewat,RG_37,0,1,52,Melewati persimpangan
+09:18,Gerobak_5,Gerobak,Patroli Lewat,RG_39,0,1,7,Melewati persimpangan
+09:18,Gerobak_6,Gerobak,Patroli Lewat,RG_39,0,1,7,Melewati persimpangan
+09:18,Gerobak_7,Gerobak,Ambil Sampah,RU_23,2,2,8,Intercept sampah! Sisa kapasitas: 13kg
+09:21,Gerobak_3,Gerobak,Buang ke TPS,TPS_2,15,2,44,Bongkar muatan di TPS_2
+09:21,Gerobak_4,Gerobak,Patroli Lewat,RG_38,0,1,53,Melewati persimpangan
+09:21,Gerobak_5,Gerobak,Patroli Lewat,RG_38,0,1,8,Melewati persimpangan
+09:21,Gerobak_6,Gerobak,Patroli Lewat,RG_38,0,1,8,Melewati persimpangan
+09:23,Gerobak_2,Gerobak,Patroli Lewat,RU_49,0,2,54,Melewati persimpangan
+09:24,Gerobak_4,Gerobak,Patroli Lewat,RG_39,0,1,54,Melewati persimpangan
+09:24,Gerobak_5,Gerobak,Patroli Lewat,RG_37,0,1,9,Melewati persimpangan
+09:24,Gerobak_6,Gerobak,Patroli Lewat,RG_37,0,1,9,Melewati persimpangan
+09:26,Gerobak_1,Gerobak,Patroli Lewat,RG_27,0,1,46,Melewati persimpangan
+09:27,Gerobak_3,Gerobak,Patroli Lewat,RU_60,0,2,46,Melewati persimpangan
+09:27,Gerobak_4,Gerobak,Patroli Lewat,RG_40,0,1,55,Melewati persimpangan
+09:27,Gerobak_5,Gerobak,Patroli Lewat,RG_36,0,1,10,Melewati persimpangan
+09:27,Gerobak_6,Gerobak,Patroli Lewat,RG_36,0,1,10,Melewati persimpangan
+09:28,Gerobak_7,Gerobak,Ambil Sampah,RU_22,2,3,11,Intercept sampah! Sisa kapasitas: 11kg
+09:29,Gerobak_1,Gerobak,Patroli Lewat,RG_26,0,1,47,Melewati persimpangan
+09:29,Gerobak_2,Gerobak,Patroli Lewat,RU_48,0,2,56,Melewati persimpangan
+09:30,Gerobak_4,Gerobak,Patroli Lewat,RU_59,0,2,57,Melewati persimpangan
+09:30,Gerobak_5,Gerobak,Patroli Lewat,RG_35,0,1,11,Melewati persimpangan
+09:30,Gerobak_6,Gerobak,Patroli Lewat,RG_35,0,1,11,Melewati persimpangan
+09:32,Gerobak_1,Gerobak,Ambil Sampah,RU_37,2,1,48,Intercept sampah! Sisa kapasitas: 0kg
+09:33,Gerobak_3,Gerobak,Patroli Lewat,RU_59,0,2,48,Melewati persimpangan
+09:33,Gerobak_5,Gerobak,Patroli Lewat,RG_34,0,1,12,Melewati persimpangan
+09:33,Gerobak_6,Gerobak,Patroli Lewat,RG_34,0,1,12,Melewati persimpangan
+09:35,Gerobak_2,Gerobak,Ambil Sampah,RU_47,1,2,58,Intercept sampah! Sisa kapasitas: 13kg
+09:36,Gerobak_4,Gerobak,Patroli Lewat,RU_60,0,2,59,Melewati persimpangan
+09:36,Gerobak_5,Gerobak,Patroli Lewat,RG_28,0,1,13,Melewati persimpangan
+09:36,Gerobak_6,Gerobak,Patroli Lewat,RG_28,0,1,13,Melewati persimpangan
+09:39,Gerobak_1,Gerobak,Patroli Lewat,RG_26,0,1,49,Melewati persimpangan
+09:39,Gerobak_3,Gerobak,Patroli Lewat,RG_40,0,2,50,Melewati persimpangan
+09:39,Gerobak_5,Gerobak,Patroli Lewat,RG_27,0,1,14,Melewati persimpangan
+09:39,Gerobak_6,Gerobak,Patroli Lewat,RG_27,0,1,14,Melewati persimpangan
+09:41,Gerobak_7,Gerobak,Ambil Sampah,RU_21,1,2,13,Intercept sampah! Sisa kapasitas: 10kg
+09:42,Gerobak_1,Gerobak,Patroli Lewat,RG_27,0,1,50,Melewati persimpangan
+09:42,Gerobak_4,Gerobak,Buang ke TPS,TPS_2,15,2,61,Bongkar muatan di TPS_2
+09:42,Gerobak_5,Gerobak,Patroli Lewat,RG_26,0,1,15,Melewati persimpangan
+09:42,Gerobak_6,Gerobak,Patroli Lewat,RG_26,0,1,15,Melewati persimpangan
+09:43,Gerobak_2,Gerobak,Patroli Lewat,RU_48,0,2,60,Melewati persimpangan
+09:45,Gerobak_1,Gerobak,Patroli Lewat,RG_28,0,1,51,Melewati persimpangan
+09:45,Gerobak_3,Gerobak,Patroli Lewat,RG_39,0,1,51,Melewati persimpangan
+09:45,Gerobak_5,Gerobak,Ambil Sampah,RU_37,2,1,16,Intercept sampah! Sisa kapasitas: 13kg
+09:45,Gerobak_6,Gerobak,Patroli Lewat,RU_37,0,1,16,Melewati persimpangan
+09:48,Gerobak_1,Gerobak,Patroli Lewat,RG_34,0,1,52,Melewati persimpangan
+09:48,Gerobak_3,Gerobak,Patroli Lewat,RG_38,0,1,52,Melewati persimpangan
+09:48,Gerobak_4,Gerobak,Patroli Lewat,RU_60,0,2,63,Melewati persimpangan
+09:48,Gerobak_6,Gerobak,Ambil Sampah,RU_36,2,2,18,Intercept sampah! Sisa kapasitas: 13kg
+09:49,Gerobak_2,Gerobak,Patroli Lewat,RG_20,0,1,61,Melewati persimpangan
+09:49,Gerobak_7,Gerobak,Patroli Lewat,RU_4,0,2,15,Melewati persimpangan
+09:51,Gerobak_1,Gerobak,Patroli Lewat,RG_35,0,1,53,Melewati persimpangan
+09:51,Gerobak_3,Gerobak,Patroli Lewat,RG_37,0,1,53,Melewati persimpangan
+09:52,Gerobak_2,Gerobak,Ambil Sampah,RG_19,2,1,62,Intercept sampah! Sisa kapasitas: 11kg
+09:52,Gerobak_5,Gerobak,Ambil Sampah,RU_38,2,2,18,Intercept sampah! Sisa kapasitas: 11kg
+09:54,Gerobak_1,Gerobak,Patroli Lewat,RG_36,0,1,54,Melewati persimpangan
+09:54,Gerobak_3,Gerobak,Patroli Lewat,RG_36,0,1,54,Melewati persimpangan
+09:54,Gerobak_4,Gerobak,Patroli Lewat,RU_59,0,2,65,Melewati persimpangan
+09:55,Gerobak_7,Gerobak,Ambil Sampah,RU_3,3,2,17,Intercept sampah! Sisa kapasitas: 7kg
+09:57,Gerobak_1,Gerobak,Patroli Lewat,RG_37,0,1,55,Melewati persimpangan
+09:57,Gerobak_3,Gerobak,Patroli Lewat,RG_35,0,1,55,Melewati persimpangan
+09:58,Gerobak_6,Gerobak,Patroli Lewat,RU_35,0,2,20,Melewati persimpangan
+09:59,Gerobak_2,Gerobak,Patroli Lewat,RG_18,0,1,63,Melewati persimpangan
+10:00,Gerobak_1,Gerobak,Patroli Lewat,RG_38,0,1,56,Melewati persimpangan
+10:00,Gerobak_3,Gerobak,Patroli Lewat,RG_34,0,1,56,Melewati persimpangan
+10:00,Gerobak_4,Gerobak,Patroli Lewat,RG_40,0,2,67,Melewati persimpangan
+10:00,Truk_2,Truk,Patroli Lewat,RU_60,0,2,2,Melewati persimpangan
+10:02,Gerobak_2,Gerobak,Ambil Sampah,RG_17,1,1,64,Intercept sampah! Sisa kapasitas: 10kg
+10:02,Gerobak_5,Gerobak,Patroli Lewat,RU_39,0,2,20,Melewati persimpangan
+10:03,Gerobak_1,Gerobak,Patroli Lewat,RG_39,0,1,57,Melewati persimpangan
+10:03,Gerobak_3,Gerobak,Patroli Lewat,RG_28,0,1,57,Melewati persimpangan
+10:03,Truk_2,Truk,Patroli Lewat,RU_59,0,2,4,Melewati persimpangan
+10:04,Gerobak_6,Gerobak,Ambil Sampah,RU_34,1,2,22,Intercept sampah! Sisa kapasitas: 12kg
+10:06,Gerobak_1,Gerobak,Patroli Lewat,RG_40,0,1,58,Melewati persimpangan
+10:06,Gerobak_3,Gerobak,Patroli Lewat,RG_27,0,1,58,Melewati persimpangan
+10:06,Gerobak_4,Gerobak,Patroli Lewat,RG_39,0,1,68,Melewati persimpangan
+10:06,Truk_2,Truk,Patroli Lewat,RG_40,0,2,6,Melewati persimpangan
+10:07,Gerobak_2,Gerobak,Ambil Sampah,RG_16,1,1,65,Intercept sampah! Sisa kapasitas: 9kg
+10:07,Gerobak_7,Gerobak,Ambil Sampah,RU_2,3,2,19,Intercept sampah! Sisa kapasitas: 4kg
+10:08,Gerobak_5,Gerobak,Ambil Sampah,RU_40,2,2,22,Intercept sampah! Sisa kapasitas: 9kg
+10:09,Gerobak_1,Gerobak,Transfer ke Truk,RG_40,15,0,58,Rendezvous dengan Truk_2
+10:09,Gerobak_3,Gerobak,Patroli Lewat,RG_26,0,1,59,Melewati persimpangan
+10:09,Gerobak_4,Gerobak,Patroli Lewat,RG_38,0,1,69,Melewati persimpangan
+10:09,Truk_2,Truk,Terima Transfer,RG_40,15,0,6,Menerima muatan dari Gerobak_1
+10:09,Truk_2,Truk,Patroli Lewat,RG_39,0,1,7,Melewati persimpangan
+10:12,Gerobak_2,Gerobak,Ambil Sampah,RG_15,1,1,66,Intercept sampah! Sisa kapasitas: 8kg
+10:12,Gerobak_3,Gerobak,Patroli Lewat,RU_37,0,1,60,Melewati persimpangan
+10:12,Gerobak_4,Gerobak,Patroli Lewat,RG_37,0,1,70,Melewati persimpangan
+10:12,Gerobak_6,Gerobak,Patroli Lewat,RU_33,0,2,24,Melewati persimpangan
+10:12,Truk_2,Truk,Patroli Lewat,RG_38,0,1,8,Melewati persimpangan
+10:14,Gerobak_1,Gerobak,Patroli Lewat,RG_39,0,1,59,Melewati persimpangan
+10:15,Gerobak_3,Gerobak,Patroli Lewat,RU_38,0,2,62,Melewati persimpangan
+10:15,Gerobak_4,Gerobak,Patroli Lewat,RG_36,0,1,71,Melewati persimpangan
+10:15,Truk_2,Truk,Patroli Lewat,RG_37,0,1,9,Melewati persimpangan
+10:17,Gerobak_1,Gerobak,Patroli Lewat,RG_38,0,1,60,Melewati persimpangan
+10:17,Gerobak_2,Gerobak,Ambil Sampah,RG_14,1,1,67,Intercept sampah! Sisa kapasitas: 7kg
+10:18,Gerobak_4,Gerobak,Patroli Lewat,RG_35,0,1,72,Melewati persimpangan
+10:18,Gerobak_5,Gerobak,Patroli Lewat,RU_39,0,2,24,Melewati persimpangan
+10:18,Gerobak_6,Gerobak,Patroli Lewat,RU_32,0,2,26,Melewati persimpangan
+10:18,Truk_2,Truk,Patroli Lewat,RG_36,0,1,10,Melewati persimpangan
+10:19,Gerobak_7,Gerobak,Patroli Lewat,RU_3,0,2,21,Melewati persimpangan
+10:20,Gerobak_1,Gerobak,Patroli Lewat,RG_37,0,1,61,Melewati persimpangan
+10:21,Gerobak_3,Gerobak,Patroli Lewat,RU_39,0,2,64,Melewati persimpangan
+10:21,Gerobak_4,Gerobak,Patroli Lewat,RG_34,0,1,73,Melewati persimpangan
+10:21,Truk_2,Truk,Patroli Lewat,RG_35,0,1,11,Melewati persimpangan
+10:22,Gerobak_2,Gerobak,Ambil Sampah,RG_13,1,1,68,Intercept sampah! Sisa kapasitas: 6kg
+10:23,Gerobak_1,Gerobak,Patroli Lewat,RG_36,0,1,62,Melewati persimpangan
+10:24,Gerobak_4,Gerobak,Patroli Lewat,RG_28,0,1,74,Melewati persimpangan
+10:24,Gerobak_5,Gerobak,Patroli Lewat,RU_14,0,3,27,Melewati persimpangan
+10:24,Gerobak_6,Gerobak,Ambil Sampah,RU_31,2,2,28,Intercept sampah! Sisa kapasitas: 10kg
+10:24,Truk_2,Truk,Patroli Lewat,RG_34,0,1,12,Melewati persimpangan
+10:25,Gerobak_7,Gerobak,Patroli Lewat,RU_4,0,2,23,Melewati persimpangan
+10:26,Gerobak_1,Gerobak,Patroli Lewat,RG_35,0,1,63,Melewati persimpangan
+10:27,Gerobak_2,Gerobak,Ambil Sampah,RG_12,1,1,69,Intercept sampah! Sisa kapasitas: 5kg
+10:27,Gerobak_3,Gerobak,Patroli Lewat,RU_14,0,3,67,Melewati persimpangan
+10:27,Gerobak_4,Gerobak,Patroli Lewat,RG_27,0,1,75,Melewati persimpangan
+10:27,Truk_2,Truk,Patroli Lewat,RG_28,0,1,13,Melewati persimpangan
+10:29,Gerobak_1,Gerobak,Patroli Lewat,RG_34,0,1,64,Melewati persimpangan
+10:30,Gerobak_4,Gerobak,Patroli Lewat,RG_26,0,1,76,Melewati persimpangan
+10:30,Truk_2,Truk,Patroli Lewat,RG_27,0,1,14,Melewati persimpangan
+10:31,Gerobak_7,Gerobak,Ambil Sampah,RU_5,1,2,25,Intercept sampah! Sisa kapasitas: 3kg
+10:32,Gerobak_1,Gerobak,Patroli Lewat,RG_28,0,1,65,Melewati persimpangan
+10:32,Gerobak_2,Gerobak,Ambil Sampah,RG_11,5,1,70,Intercept sampah! Sisa kapasitas: 0kg
+10:33,Gerobak_4,Gerobak,Patroli Lewat,RU_37,0,1,77,Melewati persimpangan
+10:33,Gerobak_5,Gerobak,Ambil Sampah,RU_13,1,2,29,Intercept sampah! Sisa kapasitas: 8kg
+10:33,Truk_2,Truk,Patroli Lewat,RG_26,0,1,15,Melewati persimpangan
+10:34,Gerobak_6,Gerobak,Patroli Lewat,RU_30,0,2,30,Melewati persimpangan
+10:35,Gerobak_1,Gerobak,Patroli Lewat,RG_27,0,1,66,Melewati persimpangan
+10:36,Gerobak_3,Gerobak,Ambil Sampah,RU_15,4,2,69,Intercept sampah! Sisa kapasitas: 11kg
+10:36,Gerobak_4,Gerobak,Patroli Lewat,RU_36,0,2,79,Melewati persimpangan
+10:36,Truk_2,Truk,Patroli Lewat,RU_37,0,1,16,Melewati persimpangan
+10:38,Gerobak_1,Gerobak,Patroli Lewat,RG_26,0,1,67,Melewati persimpangan
+10:39,Gerobak_7,Gerobak,Patroli Lewat,RU_6,0,2,27,Melewati persimpangan
+10:39,Truk_2,Truk,Patroli Lewat,RU_36,0,2,18,Melewati persimpangan
+10:40,Gerobak_6,Gerobak,Patroli Lewat,RU_29,0,2,32,Melewati persimpangan
+10:41,Gerobak_1,Gerobak,Patroli Lewat,RU_37,0,1,68,Melewati persimpangan
+10:41,Gerobak_5,Gerobak,Patroli Lewat,RU_12,0,2,31,Melewati persimpangan
+10:42,Gerobak_4,Gerobak,Ambil Sampah,RU_35,1,2,81,Intercept sampah! Sisa kapasitas: 14kg
+10:42,Truk_2,Truk,Patroli Lewat,RU_37,0,2,20,Melewati persimpangan
+10:44,Gerobak_1,Gerobak,Patroli Lewat,RG_26,0,1,69,Melewati persimpangan
+10:45,Gerobak_2,Gerobak,Patroli Lewat,RG_12,0,1,71,Melewati persimpangan
+10:45,Gerobak_7,Gerobak,Ambil Sampah,RU_7,2,2,29,Intercept sampah! Sisa kapasitas: 1kg
+10:45,Truk_2,Truk,Patroli Lewat,RU_38,0,2,22,Melewati persimpangan
+10:46,Gerobak_6,Gerobak,Patroli Lewat,RU_28,0,2,34,Melewati persimpangan
+10:47,Gerobak_1,Gerobak,Patroli Lewat,RG_27,0,1,70,Melewati persimpangan
+10:47,Gerobak_5,Gerobak,Ambil Sampah,RU_11,1,2,33,Intercept sampah! Sisa kapasitas: 7kg
+10:48,Gerobak_2,Gerobak,Patroli Lewat,RG_13,0,1,72,Melewati persimpangan
+10:48,Truk_2,Truk,Patroli Lewat,RU_39,0,2,24,Melewati persimpangan
+10:50,Gerobak_1,Gerobak,Patroli Lewat,RG_28,0,1,71,Melewati persimpangan
+10:50,Gerobak_3,Gerobak,Ambil Sampah,RU_16,5,2,71,Intercept sampah! Sisa kapasitas: 6kg
+10:50,Gerobak_4,Gerobak,Patroli Lewat,RU_36,0,2,83,Melewati persimpangan
+10:51,Gerobak_2,Gerobak,Patroli Lewat,RG_12,0,1,73,Melewati persimpangan
+10:51,Truk_1,Truk,Ambil Sampah,RU_10,2,2,26,Intercept sampah! Sisa kapasitas: 184kg
+10:51,Truk_2,Truk,Patroli Lewat,RU_14,0,3,27,Melewati persimpangan
+10:52,Gerobak_6,Gerobak,Ambil Sampah,RU_27,1,2,36,Intercept sampah! Sisa kapasitas: 9kg
+10:53,Gerobak_1,Gerobak,Patroli Lewat,RG_34,0,1,72,Melewati persimpangan
+10:54,Gerobak_2,Gerobak,Patroli Lewat,RG_11,0,1,74,Melewati persimpangan
+10:54,Truk_2,Truk,Patroli Lewat,RU_15,0,2,29,Melewati persimpangan
+10:55,Gerobak_5,Gerobak,Patroli Lewat,RU_10,0,2,35,Melewati persimpangan
+10:55,Gerobak_7,Gerobak,Ambil Sampah,RU_8,1,2,31,Intercept sampah! Sisa kapasitas: 0kg
+10:56,Gerobak_1,Gerobak,Patroli Lewat,RG_35,0,1,73,Melewati persimpangan
+10:56,Gerobak_4,Gerobak,Patroli Lewat,RU_37,0,2,85,Melewati persimpangan
+10:56,Truk_1,Truk,Ambil Sampah,RU_9,1,2,28,Intercept sampah! Sisa kapasitas: 183kg
+10:57,Gerobak_2,Gerobak,Patroli Lewat,RU_43,0,1,75,Melewati persimpangan
+10:57,Truk_2,Truk,Patroli Lewat,RU_16,0,2,31,Melewati persimpangan
+10:59,Gerobak_1,Gerobak,Patroli Lewat,RG_36,0,1,74,Melewati persimpangan
+11:00,Gerobak_2,Gerobak,Patroli Lewat,RU_42,0,2,77,Melewati persimpangan
+11:00,Gerobak_6,Gerobak,Patroli Lewat,RU_26,0,2,38,Melewati persimpangan
+11:00,Truk_2,Truk,Ambil Sampah,RU_17,2,2,33,Intercept sampah! Sisa kapasitas: 183kg
+11:00,Truk_3,Truk,Patroli Lewat,RU_25,0,4,4,Melewati persimpangan
+11:01,Gerobak_5,Gerobak,Patroli Lewat,RU_9,0,2,37,Melewati persimpangan
+11:01,Truk_1,Truk,Ambil Sampah,RU_8,3,2,30,Intercept sampah! Sisa kapasitas: 180kg
+11:02,Gerobak_1,Gerobak,Patroli Lewat,RG_37,0,1,75,Melewati persimpangan
+11:02,Gerobak_4,Gerobak,Patroli Lewat,RG_26,0,1,86,Melewati persimpangan
+11:03,Gerobak_7,Gerobak,Patroli Lewat,RU_7,0,2,33,Melewati persimpangan
+11:03,Truk_3,Truk,Ambil Sampah,RU_24,3,2,6,Intercept sampah! Sisa kapasitas: 197kg
+11:05,Gerobak_1,Gerobak,Patroli Lewat,RG_38,0,1,76,Melewati persimpangan
+11:05,Gerobak_4,Gerobak,Patroli Lewat,RU_37,0,1,87,Melewati persimpangan
+11:05,Truk_2,Truk,Ambil Sampah,RU_18,3,2,35,Intercept sampah! Sisa kapasitas: 180kg
+11:06,Gerobak_2,Gerobak,Patroli Lewat,RU_41,0,2,79,Melewati persimpangan
+11:06,Gerobak_3,Gerobak,Patroli Lewat,RU_15,0,2,73,Melewati persimpangan
+11:06,Gerobak_6,Gerobak,Patroli Lewat,RU_25,0,2,40,Melewati persimpangan
+11:06,Truk_1,Truk,Patroli Lewat,RU_9,0,2,32,Melewati persimpangan
+11:07,Gerobak_5,Gerobak,Patroli Lewat,RU_8,0,2,39,Melewati persimpangan
+11:08,Gerobak_1,Gerobak,Patroli Lewat,RG_39,0,1,77,Melewati persimpangan
+11:08,Gerobak_4,Gerobak,Patroli Lewat,RG_26,0,1,88,Melewati persimpangan
+11:08,Truk_3,Truk,Patroli Lewat,RU_23,0,2,8,Melewati persimpangan
+11:09,Gerobak_7,Gerobak,Patroli Lewat,RU_8,0,2,35,Melewati persimpangan
+11:09,Truk_1,Truk,Patroli Lewat,RU_10,0,2,34,Melewati persimpangan
+11:10,Truk_2,Truk,Ambil Sampah,RU_19,2,2,37,Intercept sampah! Sisa kapasitas: 178kg
+11:11,Gerobak_1,Gerobak,Ambil Sampah,RG_40,5,1,78,Intercept sampah! Sisa kapasitas: 10kg
+11:11,Gerobak_4,Gerobak,Patroli Lewat,RG_27,0,1,89,Melewati persimpangan
+11:11,Truk_3,Truk,Patroli Lewat,RU_22,0,3,11,Melewati persimpangan
+11:12,Gerobak_2,Gerobak,Patroli Lewat,RU_11,0,2,81,Melewati persimpangan
+11:12,Gerobak_3,Gerobak,Patroli Lewat,RU_14,0,2,75,Melewati persimpangan
+11:12,Gerobak_6,Gerobak,Patroli Lewat,RU_24,0,2,42,Melewati persimpangan
+11:12,Truk_1,Truk,Patroli Lewat,RU_11,0,2,36,Melewati persimpangan
+11:13,Gerobak_5,Gerobak,Ambil Sampah,RG_1,1,1,40,Intercept sampah! Sisa kapasitas: 6kg
+11:14,Gerobak_4,Gerobak,Patroli Lewat,RG_28,0,1,90,Melewati persimpangan
+11:14,Truk_3,Truk,Patroli Lewat,RU_21,0,2,13,Melewati persimpangan
+11:15,Gerobak_7,Gerobak,Patroli Lewat,RU_9,0,2,37,Melewati persimpangan
+11:15,Truk_1,Truk,Patroli Lewat,RU_12,0,2,38,Melewati persimpangan
+11:15,Truk_2,Truk,Ambil Sampah,RU_20,2,2,39,Intercept sampah! Sisa kapasitas: 176kg
+11:17,Gerobak_4,Gerobak,Patroli Lewat,RG_34,0,1,91,Melewati persimpangan
+11:17,Truk_3,Truk,Patroli Lewat,RU_4,0,2,15,Melewati persimpangan
+11:18,Gerobak_2,Gerobak,Transfer ke Truk,RU_12,15,2,83,Rendezvous sukses dengan Truk_1
+11:18,Gerobak_3,Gerobak,Patroli Lewat,RU_39,0,3,78,Melewati persimpangan
+11:18,Gerobak_5,Gerobak,Patroli Lewat,RG_2,0,1,41,Melewati persimpangan
+11:18,Gerobak_6,Gerobak,Patroli Lewat,RU_23,0,2,44,Melewati persimpangan
+11:18,Truk_1,Truk,Terima Transfer,RU_12,15,0,38,Menerima muatan dari Gerobak_2
+11:18,Truk_1,Truk,Patroli Lewat,RU_11,0,2,40,Melewati persimpangan
+11:20,Gerobak_4,Gerobak,Patroli Lewat,RG_35,0,1,92,Melewati persimpangan
+11:20,Truk_2,Truk,Patroli Lewat,RU_19,0,2,41,Melewati persimpangan
+11:20,Truk_3,Truk,Patroli Lewat,RU_5,0,2,17,Melewati persimpangan
+11:21,Gerobak_5,Gerobak,Ambil Sampah,RG_3,3,1,42,Intercept sampah! Sisa kapasitas: 3kg
+11:21,Gerobak_7,Gerobak,Patroli Lewat,RU_10,0,2,39,Melewati persimpangan
+11:21,Truk_1,Truk,Patroli Lewat,RU_41,0,2,42,Melewati persimpangan
+11:23,Gerobak_4,Gerobak,Patroli Lewat,RG_36,0,1,93,Melewati persimpangan
+11:23,Truk_2,Truk,Patroli Lewat,RU_18,0,2,43,Melewati persimpangan
+11:23,Truk_3,Truk,Patroli Lewat,RU_6,0,2,19,Melewati persimpangan
+11:24,Gerobak_1,Gerobak,Patroli Lewat,RU_59,0,2,80,Melewati persimpangan
+11:24,Gerobak_2,Gerobak,Patroli Lewat,RU_11,0,2,85,Melewati persimpangan
+11:24,Gerobak_6,Gerobak,Patroli Lewat,RU_22,0,3,47,Melewati persimpangan
+11:24,Truk_1,Truk,Patroli Lewat,RU_42,0,2,44,Melewati persimpangan
+11:26,Gerobak_4,Gerobak,Patroli Lewat,RG_37,0,1,94,Melewati persimpangan
+11:26,Truk_2,Truk,Patroli Lewat,RU_17,0,2,45,Melewati persimpangan
+11:26,Truk_3,Truk,Patroli Lewat,RU_7,0,2,21,Melewati persimpangan
+11:27,Gerobak_3,Gerobak,Patroli Lewat,RU_14,0,3,81,Melewati persimpangan
+11:27,Gerobak_7,Gerobak,Patroli Lewat,RU_11,0,2,41,Melewati persimpangan
+11:27,Truk_1,Truk,Patroli Lewat,RU_43,0,2,46,Melewati persimpangan
+11:29,Gerobak_4,Gerobak,Patroli Lewat,RG_38,0,1,95,Melewati persimpangan
+11:29,Truk_2,Truk,Patroli Lewat,RU_16,0,2,47,Melewati persimpangan
+11:29,Truk_3,Truk,Patroli Lewat,RU_8,0,2,23,Melewati persimpangan
+11:30,Gerobak_1,Gerobak,Patroli Lewat,RU_60,0,2,82,Melewati persimpangan
+11:30,Gerobak_2,Gerobak,Patroli Lewat,RU_10,0,2,87,Melewati persimpangan
+11:30,Gerobak_5,Gerobak,Ambil Sampah,RG_4,3,1,43,Intercept sampah! Sisa kapasitas: 0kg
+11:30,Truk_1,Truk,Patroli Lewat,RU_44,0,2,48,Melewati persimpangan
+11:32,Gerobak_4,Gerobak,Patroli Lewat,RG_39,0,1,96,Melewati persimpangan
+11:32,Truk_2,Truk,Patroli Lewat,RU_15,0,2,49,Melewati persimpangan
+11:32,Truk_3,Truk,Patroli Lewat,RU_9,0,2,25,Melewati persimpangan
+11:33,Gerobak_6,Gerobak,Patroli Lewat,RU_21,0,2,49,Melewati persimpangan
+11:33,Gerobak_7,Gerobak,Patroli Lewat,RU_41,0,2,43,Melewati persimpangan
+11:33,Truk_1,Truk,Patroli Lewat,RU_45,0,2,50,Melewati persimpangan
+11:35,Gerobak_4,Gerobak,Patroli Lewat,RG_40,0,1,97,Melewati persimpangan
+11:35,Truk_2,Truk,Patroli Lewat,RU_14,0,2,51,Melewati persimpangan
+11:35,Truk_3,Truk,Patroli Lewat,RU_10,0,2,27,Melewati persimpangan
+11:36,Gerobak_1,Gerobak,Buang ke TPS,TPS_2,5,2,84,Bongkar muatan di TPS_2
+11:36,Gerobak_2,Gerobak,Patroli Lewat,RU_9,0,2,89,Melewati persimpangan
+11:36,Gerobak_3,Gerobak,Patroli Lewat,RU_13,0,2,83,Melewati persimpangan
+11:36,Truk_1,Truk,Patroli Lewat,RU_46,0,2,52,Melewati persimpangan
+11:38,Gerobak_4,Gerobak,Patroli Lewat,RU_59,0,2,99,Melewati persimpangan
+11:38,Truk_2,Truk,Patroli Lewat,RU_13,0,2,53,Melewati persimpangan
+11:38,Truk_3,Truk,Patroli Lewat,RU_11,0,2,29,Melewati persimpangan
+11:39,Gerobak_5,Gerobak,Patroli Lewat,RG_3,0,1,44,Melewati persimpangan
+11:39,Gerobak_6,Gerobak,Patroli Lewat,RU_4,0,2,51,Melewati persimpangan
+11:39,Gerobak_7,Gerobak,Patroli Lewat,RU_42,0,2,45,Melewati persimpangan
+11:39,Truk_1,Truk,Patroli Lewat,RU_47,0,2,54,Melewati persimpangan
+11:41,Truk_2,Truk,Patroli Lewat,RU_12,0,2,55,Melewati persimpangan
+11:41,Truk_3,Truk,Patroli Lewat,RU_41,0,2,31,Melewati persimpangan
+11:42,Gerobak_1,Gerobak,Patroli Lewat,RU_60,0,2,86,Melewati persimpangan
+11:42,Gerobak_2,Gerobak,Patroli Lewat,RU_8,0,2,91,Melewati persimpangan
+11:42,Gerobak_3,Gerobak,Patroli Lewat,RU_12,0,2,85,Melewati persimpangan
+11:42,Gerobak_5,Gerobak,Patroli Lewat,RG_2,0,1,45,Melewati persimpangan
+11:42,Truk_1,Truk,Patroli Lewat,RU_48,0,2,56,Melewati persimpangan
+11:44,Gerobak_4,Gerobak,Patroli Lewat,RU_60,0,2,101,Melewati persimpangan
+11:44,Truk_2,Truk,Patroli Lewat,RU_11,0,2,57,Melewati persimpangan
+11:44,Truk_3,Truk,Patroli Lewat,RU_42,0,2,33,Melewati persimpangan
+11:45,Gerobak_5,Gerobak,Patroli Lewat,RG_1,0,1,46,Melewati persimpangan
+11:45,Gerobak_6,Gerobak,Patroli Lewat,RU_5,0,2,53,Melewati persimpangan
+11:45,Gerobak_7,Gerobak,Patroli Lewat,RU_43,0,2,47,Melewati persimpangan
+11:45,Truk_1,Truk,Patroli Lewat,RU_49,0,2,58,Melewati persimpangan
+11:47,Truk_2,Truk,Patroli Lewat,RU_41,0,2,59,Melewati persimpangan
+11:47,Truk_3,Truk,Patroli Lewat,RU_43,0,2,35,Melewati persimpangan
+11:48,Gerobak_1,Gerobak,Patroli Lewat,RU_59,0,2,88,Melewati persimpangan
+11:48,Gerobak_2,Gerobak,Patroli Lewat,RG_1,0,1,92,Melewati persimpangan
+11:48,Gerobak_3,Gerobak,Patroli Lewat,RU_11,0,2,87,Melewati persimpangan
+11:48,Gerobak_5,Gerobak,Patroli Lewat,RU_8,0,1,47,Melewati persimpangan
+11:48,Truk_1,Truk,Ambil Sampah,RU_50,1,2,60,Intercept sampah! Sisa kapasitas: 164kg
+11:50,Gerobak_4,Gerobak,Buang ke TPS,TPS_2,1,2,103,Bongkar muatan di TPS_2
+11:51,Gerobak_2,Gerobak,Patroli Lewat,RG_2,0,1,93,Melewati persimpangan
+11:51,Gerobak_5,Gerobak,Patroli Lewat,RU_7,0,2,49,Melewati persimpangan
+11:51,Gerobak_6,Gerobak,Patroli Lewat,RU_6,0,2,55,Melewati persimpangan
+11:51,Gerobak_7,Gerobak,Patroli Lewat,RU_44,0,2,49,Melewati persimpangan
+11:54,Gerobak_1,Gerobak,Patroli Lewat,RU_58,0,2,90,Melewati persimpangan
+11:54,Gerobak_2,Gerobak,Patroli Lewat,RG_3,0,1,94,Melewati persimpangan
+11:54,Gerobak_3,Gerobak,Patroli Lewat,RU_41,0,2,89,Melewati persimpangan
+11:57,Gerobak_5,Gerobak,Patroli Lewat,RU_6,0,2,51,Melewati persimpangan
+11:57,Gerobak_6,Gerobak,Patroli Lewat,RU_7,0,2,57,Melewati persimpangan
+11:57,Gerobak_7,Gerobak,Patroli Lewat,RU_45,0,2,51,Melewati persimpangan
+12:03,Gerobak_5,Gerobak,Patroli Lewat,RU_5,0,2,53,Melewati persimpangan
+12:03,Gerobak_6,Gerobak,Patroli Lewat,RU_8,0,2,59,Melewati persimpangan
+12:03,Gerobak_7,Gerobak,Patroli Lewat,RU_46,0,2,53,Melewati persimpangan
+12:09,Gerobak_5,Gerobak,Patroli Lewat,RU_4,0,2,55,Melewati persimpangan
+12:09,Gerobak_6,Gerobak,Patroli Lewat,RG_1,0,1,60,Melewati persimpangan
+12:09,Gerobak_7,Gerobak,Patroli Lewat,RU_47,0,2,55,Melewati persimpangan
+12:12,Gerobak_6,Gerobak,Patroli Lewat,RG_2,0,1,61,Melewati persimpangan
+12:15,Gerobak_5,Gerobak,Patroli Lewat,RU_21,0,2,57,Melewati persimpangan
+12:15,Gerobak_6,Gerobak,Patroli Lewat,RG_3,0,1,62,Melewati persimpangan
+12:15,Gerobak_7,Gerobak,Patroli Lewat,RU_48,0,2,57,Melewati persimpangan
+12:18,Gerobak_6,Gerobak,Patroli Lewat,RG_4,0,1,63,Melewati persimpangan
+12:21,Gerobak_5,Gerobak,Patroli Lewat,RU_22,0,2,59,Melewati persimpangan
+12:21,Gerobak_6,Gerobak,Ambil Sampah,RG_5,2,1,64,Intercept sampah! Sisa kapasitas: 7kg
+12:21,Gerobak_7,Gerobak,Patroli Lewat,RU_49,0,2,59,Melewati persimpangan
+12:27,Gerobak_5,Gerobak,Patroli Lewat,RU_23,0,3,62,Melewati persimpangan
+12:27,Gerobak_7,Gerobak,Patroli Lewat,RU_50,0,2,61,Melewati persimpangan
+12:28,Gerobak_6,Gerobak,Ambil Sampah,RG_6,1,1,65,Intercept sampah! Sisa kapasitas: 6kg
+12:33,Gerobak_6,Gerobak,Ambil Sampah,RG_7,2,1,66,Intercept sampah! Sisa kapasitas: 4kg
+12:33,Gerobak_7,Gerobak,Patroli Lewat,RU_51,0,2,63,Melewati persimpangan
+12:35,Truk_2,Truk,Patroli Lewat,RU_11,0,2,61,Melewati persimpangan
+12:35,Truk_3,Truk,Patroli Lewat,RU_44,0,2,37,Melewati persimpangan
+12:36,Gerobak_5,Gerobak,Patroli Lewat,RU_24,0,2,64,Melewati persimpangan
+12:38,Truk_1,Truk,Patroli Lewat,RU_51,0,2,62,Melewati persimpangan
+12:38,Truk_2,Truk,Patroli Lewat,RU_12,0,2,63,Melewati persimpangan
+12:38,Truk_3,Truk,Patroli Lewat,RU_45,0,2,39,Melewati persimpangan
+12:39,Gerobak_7,Gerobak,Buang ke TPS,TPS_1,15,2,65,Bongkar muatan di TPS_1
+12:40,Gerobak_6,Gerobak,Ambil Sampah,RG_8,2,1,67,Intercept sampah! Sisa kapasitas: 2kg
+12:41,Truk_1,Truk,Patroli Lewat,RU_52,0,2,64,Melewati persimpangan
+12:41,Truk_2,Truk,Patroli Lewat,RU_11,0,2,65,Melewati persimpangan
+12:41,Truk_3,Truk,Patroli Lewat,RU_44,0,2,41,Melewati persimpangan
+12:42,Gerobak_5,Gerobak,Patroli Lewat,RU_25,0,2,66,Melewati persimpangan
+12:44,Truk_1,Truk,Patroli Lewat,RU_53,0,2,66,Melewati persimpangan
+12:44,Truk_2,Truk,Ambil Sampah,RU_41,1,2,67,Intercept sampah! Sisa kapasitas: 175kg
+12:44,Truk_3,Truk,Patroli Lewat,RU_45,0,2,43,Melewati persimpangan
+12:45,Gerobak_7,Gerobak,Patroli Lewat,RU_51,0,2,67,Melewati persimpangan
+12:47,Gerobak_6,Gerobak,Ambil Sampah,RG_9,1,1,68,Intercept sampah! Sisa kapasitas: 1kg
+12:47,Truk_1,Truk,Patroli Lewat,RU_54,0,2,68,Melewati persimpangan
+12:47,Truk_3,Truk,Patroli Lewat,RU_46,0,2,45,Melewati persimpangan
+12:48,Gerobak_5,Gerobak,Buang ke TPS,TPS_3,15,4,70,Bongkar muatan di TPS_3
+12:49,Truk_2,Truk,Patroli Lewat,RU_11,0,2,69,Melewati persimpangan
+12:50,Truk_1,Truk,Patroli Lewat,RU_55,0,2,70,Melewati persimpangan
+12:50,Truk_3,Truk,Patroli Lewat,RU_47,0,2,47,Melewati persimpangan
+12:51,Gerobak_7,Gerobak,Patroli Lewat,RU_52,0,2,69,Melewati persimpangan
+12:52,Gerobak_6,Gerobak,Ambil Sampah,RG_10,1,1,69,Intercept sampah! Sisa kapasitas: 0kg
+12:52,Truk_2,Truk,Patroli Lewat,RU_12,0,2,71,Melewati persimpangan
+12:53,Truk_1,Truk,Patroli Lewat,RU_56,0,2,72,Melewati persimpangan
+12:53,Truk_3,Truk,Patroli Lewat,RU_48,0,2,49,Melewati persimpangan
+12:55,Truk_2,Truk,Patroli Lewat,RU_13,0,2,73,Melewati persimpangan
+12:56,Truk_1,Truk,Patroli Lewat,RU_57,0,2,74,Melewati persimpangan
+12:56,Truk_3,Truk,Patroli Lewat,RU_49,0,2,51,Melewati persimpangan
+12:57,Gerobak_6,Gerobak,Patroli Lewat,RG_9,0,1,70,Melewati persimpangan
+12:57,Gerobak_7,Gerobak,Patroli Lewat,RU_53,0,2,71,Melewati persimpangan
+12:58,Truk_2,Truk,Patroli Lewat,RU_14,0,2,75,Melewati persimpangan
+12:59,Truk_1,Truk,Ambil Sampah,RU_58,1,2,76,Intercept sampah! Sisa kapasitas: 163kg
+12:59,Truk_3,Truk,Patroli Lewat,RU_50,0,2,53,Melewati persimpangan
+13:00,Gerobak_5,Gerobak,Patroli Lewat,RU_26,0,3,73,Melewati persimpangan
+13:00,Gerobak_6,Gerobak,Patroli Lewat,RG_8,0,1,71,Melewati persimpangan
+13:01,Truk_2,Truk,Patroli Lewat,RU_39,0,3,78,Melewati persimpangan
+13:02,Truk_3,Truk,Patroli Lewat,RU_51,0,2,55,Melewati persimpangan
+13:03,Gerobak_6,Gerobak,Patroli Lewat,RG_7,0,1,72,Melewati persimpangan
+13:03,Gerobak_7,Gerobak,Patroli Lewat,RU_54,0,2,73,Melewati persimpangan
+13:04,Truk_1,Truk,Patroli Lewat,RU_59,0,2,78,Melewati persimpangan
+13:04,Truk_2,Truk,Patroli Lewat,RU_38,0,2,80,Melewati persimpangan
+13:05,Truk_3,Truk,Patroli Lewat,RU_52,0,2,57,Melewati persimpangan
+13:06,Gerobak_6,Gerobak,Patroli Lewat,RG_6,0,1,73,Melewati persimpangan
+13:07,Truk_1,Truk,Patroli Lewat,RU_60,0,2,80,Melewati persimpangan
+13:07,Truk_2,Truk,Patroli Lewat,RU_39,0,2,82,Melewati persimpangan
+13:08,Truk_3,Truk,Patroli Lewat,RU_53,0,2,59,Melewati persimpangan
+13:09,Gerobak_5,Gerobak,Ambil Sampah,RU_27,1,2,75,Intercept sampah! Sisa kapasitas: 14kg
+13:09,Gerobak_6,Gerobak,Patroli Lewat,RG_5,0,1,74,Melewati persimpangan
+13:09,Gerobak_7,Gerobak,Patroli Lewat,RU_55,0,2,75,Melewati persimpangan
+13:10,Truk_1,Truk,Buang ke TPS,TPS_2,37,2,82,Bongkar muatan di TPS_2
+13:10,Truk_2,Truk,Ambil Sampah,RU_14,2,3,85,Intercept sampah! Sisa kapasitas: 173kg
+13:12,Gerobak_6,Gerobak,Patroli Lewat,RG_4,0,1,75,Melewati persimpangan
+13:15,Gerobak_6,Gerobak,Patroli Lewat,RG_3,0,1,76,Melewati persimpangan
+13:15,Gerobak_7,Gerobak,Patroli Lewat,RG_33,0,2,77,Melewati persimpangan
+13:15,Truk_2,Truk,Patroli Lewat,RU_13,0,2,87,Melewati persimpangan
+13:17,Gerobak_5,Gerobak,Patroli Lewat,RU_26,0,2,77,Melewati persimpangan
+13:18,Gerobak_6,Gerobak,Patroli Lewat,RG_2,0,1,77,Melewati persimpangan
+13:18,Truk_2,Truk,Patroli Lewat,RU_12,0,2,89,Melewati persimpangan
+13:21,Gerobak_6,Gerobak,Patroli Lewat,RG_1,0,1,78,Melewati persimpangan
+13:21,Gerobak_7,Gerobak,Ambil Sampah,RG_32,1,1,78,Intercept sampah! Sisa kapasitas: 14kg
+13:21,Truk_2,Truk,Patroli Lewat,RU_11,0,2,91,Melewati persimpangan
+13:23,Gerobak_5,Gerobak,Patroli Lewat,RU_25,0,2,79,Melewati persimpangan
+13:24,Gerobak_6,Gerobak,Patroli Lewat,RU_8,0,1,79,Melewati persimpangan
+13:24,Truk_2,Truk,Patroli Lewat,RU_10,0,2,93,Melewati persimpangan
+13:26,Gerobak_7,Gerobak,Patroli Lewat,RG_33,0,1,79,Melewati persimpangan
+13:26,Truk_3,Truk,Patroli Lewat,RU_54,0,2,61,Melewati persimpangan
+13:27,Gerobak_6,Gerobak,Patroli Lewat,RU_9,0,2,81,Melewati persimpangan
+13:27,Truk_2,Truk,Patroli Lewat,RU_9,0,2,95,Melewati persimpangan
+13:28,Truk_1,Truk,Patroli Lewat,RU_60,0,2,84,Melewati persimpangan
+13:29,Gerobak_5,Gerobak,Patroli Lewat,RU_24,0,2,81,Melewati persimpangan
+13:29,Gerobak_7,Gerobak,Ambil Sampah,RU_55,5,2,81,Intercept sampah! Sisa kapasitas: 9kg
+13:29,Truk_3,Truk,Patroli Lewat,RU_55,0,2,63,Melewati persimpangan
+13:30,Truk_2,Truk,Patroli Lewat,RU_8,0,2,97,Melewati persimpangan
+13:31,Truk_1,Truk,Patroli Lewat,RU_59,0,2,86,Melewati persimpangan
+13:32,Truk_3,Truk,Patroli Lewat,RG_33,0,2,65,Melewati persimpangan
+13:33,Gerobak_6,Gerobak,Transfer ke Truk,RU_8,15,2,83,Rendezvous sukses dengan Truk_2
+13:33,Truk_2,Truk,Terima Transfer,RU_8,15,0,97,Menerima muatan dari Gerobak_6
+13:33,Truk_2,Truk,Patroli Lewat,RU_7,0,2,99,Melewati persimpangan
+13:34,Truk_1,Truk,Patroli Lewat,RG_40,0,2,88,Melewati persimpangan
+13:35,Gerobak_5,Gerobak,Ambil Sampah,RU_25,2,2,83,Intercept sampah! Sisa kapasitas: 12kg
+13:35,Truk_3,Truk,Patroli Lewat,RG_32,0,1,66,Melewati persimpangan
+13:36,Truk_2,Truk,Patroli Lewat,RU_6,0,2,101,Melewati persimpangan
+13:37,Truk_1,Truk,Patroli Lewat,RG_39,0,1,89,Melewati persimpangan
+13:38,Truk_3,Truk,Patroli Lewat,RG_31,0,1,67,Melewati persimpangan
+13:39,Gerobak_6,Gerobak,Patroli Lewat,RG_1,0,1,84,Melewati persimpangan
+13:39,Truk_2,Truk,Patroli Lewat,RU_5,0,2,103,Melewati persimpangan
+13:40,Truk_1,Truk,Patroli Lewat,RG_38,0,1,90,Melewati persimpangan
+13:41,Truk_3,Truk,Patroli Lewat,RG_30,0,1,68,Melewati persimpangan
+13:42,Gerobak_6,Gerobak,Patroli Lewat,RG_2,0,1,85,Melewati persimpangan
+13:42,Truk_2,Truk,Patroli Lewat,RU_4,0,2,105,Melewati persimpangan
+13:43,Truk_1,Truk,Patroli Lewat,RG_37,0,1,91,Melewati persimpangan
+13:44,Truk_3,Truk,Patroli Lewat,RG_29,0,1,69,Melewati persimpangan
+13:45,Gerobak_5,Gerobak,Patroli Lewat,RU_24,0,2,85,Melewati persimpangan
+13:45,Gerobak_6,Gerobak,Patroli Lewat,RG_3,0,1,86,Melewati persimpangan
+13:45,Gerobak_7,Gerobak,Patroli Lewat,RU_54,0,2,83,Melewati persimpangan
+13:45,Truk_2,Truk,Patroli Lewat,RU_3,0,2,107,Melewati persimpangan
+13:46,Truk_1,Truk,Patroli Lewat,RG_36,0,1,92,Melewati persimpangan
+13:47,Truk_3,Truk,Patroli Lewat,RG_28,0,1,70,Melewati persimpangan
+13:48,Gerobak_6,Gerobak,Patroli Lewat,RG_4,0,1,87,Melewati persimpangan
+13:48,Truk_2,Truk,Patroli Lewat,RU_2,0,2,109,Melewati persimpangan
+13:49,Truk_1,Truk,Patroli Lewat,RG_35,0,1,93,Melewati persimpangan
+13:50,Truk_3,Truk,Patroli Lewat,RG_27,0,1,71,Melewati persimpangan
+13:51,Gerobak_5,Gerobak,Patroli Lewat,RU_23,0,2,87,Melewati persimpangan
+13:51,Gerobak_6,Gerobak,Patroli Lewat,RG_5,0,1,88,Melewati persimpangan
+13:51,Gerobak_7,Gerobak,Patroli Lewat,RU_53,0,2,85,Melewati persimpangan
+13:51,Truk_2,Truk,Ambil Sampah,RU_1,2,2,111,Intercept sampah! Sisa kapasitas: 156kg
+13:52,Truk_1,Truk,Patroli Lewat,RG_34,0,1,94,Melewati persimpangan
+13:53,Truk_3,Truk,Patroli Lewat,RG_26,0,1,72,Melewati persimpangan
+13:54,Gerobak_6,Gerobak,Patroli Lewat,RG_6,0,1,89,Melewati persimpangan
+13:55,Truk_1,Truk,Patroli Lewat,RG_28,0,1,95,Melewati persimpangan
+13:56,Truk_2,Truk,Patroli Lewat,RU_2,0,2,113,Melewati persimpangan
+13:56,Truk_3,Truk,Patroli Lewat,RU_37,0,1,73,Melewati persimpangan
+13:57,Gerobak_5,Gerobak,Patroli Lewat,RU_22,0,3,90,Melewati persimpangan
+13:57,Gerobak_6,Gerobak,Patroli Lewat,RG_7,0,1,90,Melewati persimpangan
+13:57,Gerobak_7,Gerobak,Patroli Lewat,RU_52,0,2,87,Melewati persimpangan
+13:59,Truk_2,Truk,Patroli Lewat,RU_3,0,2,115,Melewati persimpangan
+13:59,Truk_3,Truk,Patroli Lewat,RU_38,0,2,75,Melewati persimpangan
+14:00,Gerobak_6,Gerobak,Ambil Sampah,RG_8,1,1,91,Intercept sampah! Sisa kapasitas: 14kg
+14:02,Truk_2,Truk,Patroli Lewat,RU_4,0,2,117,Melewati persimpangan
+14:02,Truk_3,Truk,Patroli Lewat,RU_39,0,2,77,Melewati persimpangan
+14:03,Gerobak_7,Gerobak,Patroli Lewat,RU_51,0,2,89,Melewati persimpangan
+14:05,Gerobak_6,Gerobak,Patroli Lewat,RG_7,0,1,92,Melewati persimpangan
+14:05,Truk_2,Truk,Patroli Lewat,RU_5,0,2,119,Melewati persimpangan
+14:05,Truk_3,Truk,Patroli Lewat,RU_14,0,3,80,Melewati persimpangan
+14:06,Gerobak_5,Gerobak,Patroli Lewat,RU_23,0,3,93,Melewati persimpangan
+14:08,Gerobak_6,Gerobak,Patroli Lewat,RG_6,0,1,93,Melewati persimpangan
+14:08,Truk_2,Truk,Patroli Lewat,RU_6,0,2,121,Melewati persimpangan
+14:08,Truk_3,Truk,Patroli Lewat,RU_13,0,2,82,Melewati persimpangan
+14:09,Gerobak_7,Gerobak,Buang ke TPS,TPS_1,6,2,91,Bongkar muatan di TPS_1
+14:11,Gerobak_6,Gerobak,Patroli Lewat,RG_5,0,1,94,Melewati persimpangan
+14:11,Truk_2,Truk,Patroli Lewat,RU_7,0,2,123,Melewati persimpangan
+14:11,Truk_3,Truk,Patroli Lewat,RU_12,0,2,84,Melewati persimpangan
+14:14,Gerobak_6,Gerobak,Patroli Lewat,RG_4,0,1,95,Melewati persimpangan
+14:14,Truk_2,Truk,Patroli Lewat,RU_8,0,2,125,Melewati persimpangan
+14:15,Gerobak_5,Gerobak,Patroli Lewat,RU_24,0,2,95,Melewati persimpangan
+14:15,Gerobak_7,Gerobak,Patroli Lewat,RU_51,0,2,93,Melewati persimpangan
+14:17,Gerobak_6,Gerobak,Patroli Lewat,RG_3,0,1,96,Melewati persimpangan
+14:17,Truk_2,Truk,Patroli Lewat,RU_9,0,2,127,Melewati persimpangan
+14:20,Gerobak_6,Gerobak,Patroli Lewat,RG_2,0,1,97,Melewati persimpangan
+14:20,Truk_2,Truk,Patroli Lewat,RU_10,0,2,129,Melewati persimpangan
+14:21,Gerobak_5,Gerobak,Patroli Lewat,RU_25,0,2,97,Melewati persimpangan
+14:21,Gerobak_7,Gerobak,Patroli Lewat,RU_50,0,2,95,Melewati persimpangan
+14:23,Gerobak_6,Gerobak,Patroli Lewat,RG_1,0,1,98,Melewati persimpangan
+14:23,Truk_2,Truk,Patroli Lewat,RU_11,0,2,131,Melewati persimpangan
+14:26,Gerobak_6,Gerobak,Patroli Lewat,RU_8,0,1,99,Melewati persimpangan
+14:26,Truk_2,Truk,Ambil Sampah,RU_12,2,2,133,Intercept sampah! Sisa kapasitas: 154kg
+14:27,Gerobak_5,Gerobak,Buang ke TPS,TPS_3,3,4,101,Bongkar muatan di TPS_3
+14:27,Gerobak_7,Gerobak,Patroli Lewat,RU_49,0,2,97,Melewati persimpangan
+14:29,Gerobak_6,Gerobak,Patroli Lewat,RU_9,0,2,101,Melewati persimpangan
+14:29,Truk_3,Truk,Patroli Lewat,RU_11,0,2,86,Melewati persimpangan
+14:31,Truk_2,Truk,Patroli Lewat,RU_11,0,2,135,Melewati persimpangan
+14:32,Truk_3,Truk,Ambil Sampah,RU_41,1,2,88,Intercept sampah! Sisa kapasitas: 196kg
+14:33,Gerobak_7,Gerobak,Patroli Lewat,RU_48,0,2,99,Melewati persimpangan
+14:34,Truk_2,Truk,Patroli Lewat,RU_10,0,2,137,Melewati persimpangan
+14:35,Gerobak_6,Gerobak,Patroli Lewat,RU_8,0,2,103,Melewati persimpangan
+14:37,Truk_2,Truk,Patroli Lewat,RU_9,0,2,139,Melewati persimpangan
+14:37,Truk_3,Truk,Patroli Lewat,RU_11,0,2,90,Melewati persimpangan
+14:39,Gerobak_5,Gerobak,Patroli Lewat,RU_25,0,4,105,Melewati persimpangan
+14:39,Gerobak_7,Gerobak,Patroli Lewat,RG_20,0,1,100,Melewati persimpangan
+14:40,Truk_2,Truk,Patroli Lewat,RU_8,0,2,141,Melewati persimpangan
+14:40,Truk_3,Truk,Patroli Lewat,RU_10,0,2,92,Melewati persimpangan
+14:41,Gerobak_6,Gerobak,Patroli Lewat,RU_7,0,2,105,Melewati persimpangan
+14:42,Gerobak_7,Gerobak,Patroli Lewat,RG_19,0,1,101,Melewati persimpangan
+14:43,Truk_2,Truk,Patroli Lewat,RU_7,0,2,143,Melewati persimpangan
+14:43,Truk_3,Truk,Patroli Lewat,RU_9,0,2,94,Melewati persimpangan
+14:45,Gerobak_7,Gerobak,Patroli Lewat,RG_18,0,1,102,Melewati persimpangan
+14:46,Truk_2,Truk,Patroli Lewat,RU_6,0,2,145,Melewati persimpangan
+14:46,Truk_3,Truk,Patroli Lewat,RU_8,0,2,96,Melewati persimpangan
+14:47,Gerobak_6,Gerobak,Patroli Lewat,RU_6,0,2,107,Melewati persimpangan
+14:48,Gerobak_7,Gerobak,Patroli Lewat,RG_17,0,1,103,Melewati persimpangan
+14:49,Truk_2,Truk,Ambil Sampah,RU_5,1,2,147,Intercept sampah! Sisa kapasitas: 153kg
+14:49,Truk_3,Truk,Patroli Lewat,RU_7,0,2,98,Melewati persimpangan
+14:51,Gerobak_5,Gerobak,Patroli Lewat,RU_24,0,2,107,Melewati persimpangan
+14:51,Gerobak_7,Gerobak,Patroli Lewat,RG_16,0,1,104,Melewati persimpangan
+14:52,Truk_3,Truk,Patroli Lewat,RU_6,0,2,100,Melewati persimpangan
+14:53,Gerobak_6,Gerobak,Patroli Lewat,RU_5,0,2,109,Melewati persimpangan
+14:54,Gerobak_7,Gerobak,Patroli Lewat,RG_15,0,1,105,Melewati persimpangan
+14:54,Truk_2,Truk,Patroli Lewat,RU_4,0,2,149,Melewati persimpangan
+14:55,Truk_3,Truk,Patroli Lewat,RU_5,0,2,102,Melewati persimpangan
+14:57,Gerobak_7,Gerobak,Patroli Lewat,RG_14,0,1,106,Melewati persimpangan
+14:57,Truk_2,Truk,Patroli Lewat,RU_21,0,2,151,Melewati persimpangan
+14:58,Truk_3,Truk,Patroli Lewat,RU_4,0,2,104,Melewati persimpangan
+15:00,Truk_2,Truk,Patroli Lewat,RU_22,0,2,153,Melewati persimpangan
+15:01,Truk_3,Truk,Patroli Lewat,RU_21,0,2,106,Melewati persimpangan
+15:03,Truk_2,Truk,Patroli Lewat,RU_23,0,3,156,Melewati persimpangan
+15:04,Truk_3,Truk,Patroli Lewat,RU_22,0,2,108,Melewati persimpangan
+15:06,Truk_2,Truk,Patroli Lewat,RU_24,0,2,158,Melewati persimpangan
+15:07,Truk_3,Truk,Patroli Lewat,RU_23,0,3,111,Melewati persimpangan
+15:09,Truk_2,Truk,Patroli Lewat,RU_25,0,2,160,Melewati persimpangan
+15:10,Truk_3,Truk,Patroli Lewat,RU_24,0,2,113,Melewati persimpangan
+15:12,Truk_2,Truk,Buang ke TPS,TPS_3,47,4,164,Bongkar muatan di TPS_3
+15:13,Truk_3,Truk,Patroli Lewat,RU_25,0,2,115,Melewati persimpangan
+15:15,Truk_2,Truk,Patroli Lewat,RU_26,0,3,167,Melewati persimpangan
+15:16,Truk_3,Truk,Patroli Lewat,RU_26,0,2,117,Melewati persimpangan
+15:18,Truk_2,Truk,Patroli Lewat,RU_27,0,2,169,Melewati persimpangan
+15:19,Truk_3,Truk,Patroli Lewat,RU_27,0,2,119,Melewati persimpangan
+15:21,Truk_2,Truk,Patroli Lewat,RU_28,0,2,171,Melewati persimpangan
+15:22,Truk_3,Truk,Patroli Lewat,RU_28,0,2,121,Melewati persimpangan
+15:24,Truk_2,Truk,Patroli Lewat,RU_29,0,2,173,Melewati persimpangan
+15:25,Truk_3,Truk,Patroli Lewat,RU_29,0,2,123,Melewati persimpangan
+15:27,Truk_2,Truk,Patroli Lewat,RU_30,0,2,175,Melewati persimpangan
+15:28,Truk_3,Truk,Patroli Lewat,RU_30,0,2,125,Melewati persimpangan
+15:30,Truk_2,Truk,Patroli Lewat,RU_31,0,2,177,Melewati persimpangan
+15:31,Truk_3,Truk,Patroli Lewat,RU_31,0,2,127,Melewati persimpangan
+15:33,Truk_2,Truk,Ambil Sampah,RU_32,1,2,179,Intercept sampah! Sisa kapasitas: 199kg
+15:34,Truk_3,Truk,Patroli Lewat,RU_32,0,2,129,Melewati persimpangan
+15:37,Truk_3,Truk,Ambil Sampah,RU_33,1,2,131,Intercept sampah! Sisa kapasitas: 195kg
+15:38,Truk_2,Truk,Patroli Lewat,RU_31,0,2,181,Melewati persimpangan
+15:41,Truk_2,Truk,Patroli Lewat,RU_30,0,2,183,Melewati persimpangan
+15:42,Truk_3,Truk,Patroli Lewat,RU_34,0,2,133,Melewati persimpangan
+15:44,Truk_2,Truk,Patroli Lewat,RU_29,0,2,185,Melewati persimpangan
+15:45,Truk_3,Truk,Patroli Lewat,RU_35,0,2,135,Melewati persimpangan
+15:47,Truk_2,Truk,Patroli Lewat,RU_28,0,2,187,Melewati persimpangan
+15:48,Truk_3,Truk,Patroli Lewat,RU_36,0,2,137,Melewati persimpangan
+15:50,Truk_2,Truk,Patroli Lewat,RU_27,0,2,189,Melewati persimpangan
+15:51,Truk_3,Truk,Patroli Lewat,RU_37,0,2,139,Melewati persimpangan
+15:53,Truk_2,Truk,Patroli Lewat,RU_26,0,2,191,Melewati persimpangan
+15:54,Truk_3,Truk,Patroli Lewat,RG_26,0,1,140,Melewati persimpangan
+15:56,Truk_2,Truk,Buang ke TPS,TPS_3,1,3,194,Bongkar muatan di TPS_3
+15:57,Truk_3,Truk,Ambil Sampah,RG_27,4,1,141,Intercept sampah! Sisa kapasitas: 191kg
+16:02,Truk_3,Truk,Patroli Lewat,RG_28,0,1,142,Melewati persimpangan
+16:05,Truk_3,Truk,Patroli Lewat,RG_34,0,1,143,Melewati persimpangan
+16:08,Truk_3,Truk,Patroli Lewat,RG_35,0,1,144,Melewati persimpangan
+16:11,Truk_3,Truk,Patroli Lewat,RG_36,0,1,145,Melewati persimpangan
+16:14,Truk_3,Truk,Patroli Lewat,RG_37,0,1,146,Melewati persimpangan
+16:17,Truk_3,Truk,Patroli Lewat,RG_38,0,1,147,Melewati persimpangan
+16:20,Truk_3,Truk,Patroli Lewat,RG_39,0,1,148,Melewati persimpangan
+16:23,Truk_3,Truk,Patroli Lewat,RG_40,0,1,149,Melewati persimpangan
+16:26,Truk_3,Truk,Patroli Lewat,RU_59,0,2,151,Melewati persimpangan
+16:29,Truk_3,Truk,Patroli Lewat,RU_60,0,2,153,Melewati persimpangan
+16:32,Truk_3,Truk,Buang ke TPS,TPS_2,9,2,155,Bongkar muatan di TPS_2
+16:35,Truk_3,Truk,Ambil Sampah,RU_60,1,2,157,Intercept sampah! Sisa kapasitas: 199kg
+16:40,Truk_3,Truk,Buang ke TPS,TPS_2,1,2,159,Bongkar muatan di TPS_2
+16:43,Truk_3,Truk,Patroli Lewat,RU_60,0,2,161,Melewati persimpangan
+16:46,Truk_3,Truk,Patroli Lewat,RU_59,0,2,163,Melewati persimpangan
+16:49,Truk_3,Truk,Patroli Lewat,RG_40,0,2,165,Melewati persimpangan
+16:52,Truk_3,Truk,Patroli Lewat,RG_39,0,1,166,Melewati persimpangan
+16:55,Truk_3,Truk,Ambil Sampah,RG_38,1,1,167,Intercept sampah! Sisa kapasitas: 199kg
